@@ -4,7 +4,7 @@ body {
 }
 .venue_logo{
 
-  
+
 }
 .message {
   color: #ff0000;
@@ -64,13 +64,13 @@ display: none;
 }
 
 .landingpage{
-  background: #000;
+  background: #252525;
 
-    background-image: url("../assets/img/launch.jpeg");
+  /*  background-image: url("../assets/img/launch.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
+*/
 
   min-height: 95vmax;
   display: flex;

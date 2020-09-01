@@ -11,6 +11,7 @@ body {
   font-size: 20;
   text-align: center;
   font-style: italic;
+  background-color: #000;
 }
 @media (max-width: 30em) {
 .message {
@@ -70,11 +71,12 @@ display: none;
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-*/
+
 
   min-height: 95vmax;
   display: flex;
   flex-direction: column;
+  */
 }
 .logo{
   text-align: center;

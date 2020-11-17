@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <p>
-<a>To book Dao Wiz for a show, collaborations or other general enquiries etc. Please contact Ivan by email, whatsapp or phone:</a>
+<a>Please contact me by email, whatsapp or phone:</a>
 <br>
 <br>
 <strong>Tel: +27 060 402 4843</strong>

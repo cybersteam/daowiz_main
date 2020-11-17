@@ -68,6 +68,7 @@ display: none;
 .landingpage{
   background-color: #252525;
   color: #fff;
+  text-align: center;
 
   /*  background-image: url("../assets/img/launch.jpeg");
     background-size: 100%;

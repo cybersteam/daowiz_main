@@ -231,16 +231,16 @@ footer.page-footer .footer-copyright {
 }
 
 @keyframes fader{
-  0% {background: url("/assets/img/launch.jpeg")}
-  10% {background: url("/assets/img/futurevibes/blob.jpg")}
-  20% {background: url("/assets/img/futurevibes/hangingbythread.jpg")}
-  30% {background: url("/assets/img/portraits/IMG_20200325_122812.jpg")}
-  40% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg")}
-  50% {background: url("/assets/img/futurevibes/IMG_20180613_130227_754.jpg")}
-  60% {background: url("/assets/img/futurevibes/IMG_20200331_160359.jpg")}
-  70% {background: url("/assets/img/futurevibes/IMG_20200403_135606.jpg")}
-  80% {background: url("/assets/img/futurevibes/IMG-20150520-WA0000.jpg")}
-  90% {background: url("/assets/img/portraits/IMG_20200119_140856.jpg")}
+  0% {background: url("/assets/img/launch.jpeg"); background-size:cover;}
+  10% {background: url("/assets/img/futurevibes/blob.jpg"); background-size:cover;}
+  20% {background: url("/assets/img/futurevibes/hangingbythread.jpg"); background-size:cover;}
+  30% {background: url("/assets/img/portraits/IMG_20200325_122812.jpg"); background-size:cover;}
+  40% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg"); background-size:cover;}
+  50% {background: url("/assets/img/futurevibes/IMG_20180613_130227_754.jpg"); background-size:cover;}
+  60% {background: url("/assets/img/futurevibes/IMG_20200331_160359.jpg"); background-size:cover;}
+  70% {background: url("/assets/img/futurevibes/IMG_20200403_135606.jpg"); background-size:cover;}
+  80% {background: url("/assets/img/futurevibes/IMG-20150520-WA0000.jpg"); background-size:cover;}
+  90% {background: url("/assets/img/portraits/IMG_20200119_140856.jpg"); background-size:cover;}
   100% {background: url("/assets/img/launch.jpeg")}
 }
 
@@ -253,8 +253,8 @@ footer.page-footer .footer-copyright {
 
 #gallery {
   max-width: 959px;
-  border: thin black solid;
+  border: none;
   margin: 0 auto;
   background: skyblue;
-  animation: fader 10s cubic-bezier(1,0,0,1) infinite;
+  animation: fader 15s cubic-bezier(1,0,0,1) infinite;
 }

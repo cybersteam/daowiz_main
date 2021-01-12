@@ -248,5 +248,5 @@ footer.page-footer .footer-copyright {
   border: thin black solid;
   margin: 0 0;
   background: skyblue;
-  animation: fader 5s cubic-bezier(.8,0,0,.8) infinite;
+  animation: fader 10s cubic-bezier(1,0,0,1) infinite;
 }

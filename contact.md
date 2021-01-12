@@ -9,8 +9,8 @@ permalink: /contact/
 <br>
 <br>
 
-<a href="tel:+27-060-402-4843">
-<img class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>
+<a href="tel:+27-060-402-4843"><img class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a>
+
 </a>
 <br>
 <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="42" width="42"></a>

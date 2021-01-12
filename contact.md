@@ -8,7 +8,9 @@ permalink: /contact/
 <a>Please contact me by Telegram App, Signal App, Email or Phone:</a>
 <br>
 <br>
-<a href="tel:+27-060-402-4843"><img src= class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>"</a>
+<div class="fixed-action-btn">
+<a href="tel:+27-060-402-4843", class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>
+</div>
 <br>
 <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="42" width="42"></a>
 <br>

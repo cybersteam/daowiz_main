@@ -236,14 +236,14 @@ footer.page-footer .footer-copyright {
 }
 
 #wrapper {
-  max-width:100%;
+  max-width:100vw;
   border: none;
   margin: auto;
   padding:0px;
 }
 
 #gallery {
-  max-width: 100%;
+  max-width: 100vw;
   border: thin black solid;
   margin: 0 auto;
   background: skyblue;

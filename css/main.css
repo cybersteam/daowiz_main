@@ -239,14 +239,14 @@ footer.page-footer .footer-copyright {
 #wrapper {
   max-width: 960px;
   border: none;
-  margin: 0;
+  margin: 0 auto;
   padding:0px;
 }
 
 #gallery {
   max-width: 959px;
   border: thin black solid;
-  margin: 0 0;
+  margin: 0 auto;
   background: skyblue;
   animation: fader 10s cubic-bezier(1,0,0,1) infinite;
 }

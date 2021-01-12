@@ -231,8 +231,9 @@ footer.page-footer .footer-copyright {
 }
 
 @keyframes fader{
-  0% {background: url("/assets/launch.jpeg")}
-  100% {background: url("/assets/img/portraits/elon.jpg")}
+  0% {background: url("/assets/img/launch.jpeg")}
+  50% {background: url("/assets/img/portraits/elon.jpg")}
+  100% {background: url("/assets/img/launch.jpeg")}
 }
 
 #wrapper {

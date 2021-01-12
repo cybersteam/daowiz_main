@@ -19,6 +19,6 @@ permalink: /contact/
 <hr>
 <a href="tg://user?id=123456789"><img src="../assets/img/telegram.png" height="42" width="42"></a>
 
-
+<li><a href="../contact" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a></li>
 <!--<p>Daowiz serves individuals, SME’s, corporations, organizations, communities and ecosystems in all sectors, anywhere in the world, constantly gaining a broader and deeper perspective of the living world as one whole integrated system. We believe that all life has a critical role to play and that the more we become aware and learn about each other -the better all of our futures will be.</p>
 -->

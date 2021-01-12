@@ -9,7 +9,7 @@ permalink: /contact/
 <br>
 <br>
 
-<a href="tel:+27-060-402-4843"><img class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a>
+<a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>></a>
 
 </a>
 <br>

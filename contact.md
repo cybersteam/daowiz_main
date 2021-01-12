@@ -6,15 +6,23 @@ permalink: /contact/
 
 <div>
   <a>Please contact me by Telegram App, Signal App, Email or Phone:</a>
-<hr>
-<br>
-<br>
-<a href="tg://user?id=123456789"><img src="../assets/img/telegram.png" height="42" width="42"></a>
-<br>
-<a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="42" width="42"></a><a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>>
-</a>
+  <hr>
+
+    <br>
+    <br>
+    <br>
 
 
+<div class="buttons">
+    <p style="text-align: center;">
+      <a target="blank" title="Company Registration" <a href="tg://user?id=123456789"><img src="../assets/img/telegram.png" height="42" width="42"></a>
+      <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="42" width="42"></a><a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>>
+      </a>
+    </p>
+    <p style="text-align: left; font-size:2vw">
+      <a>Next</a>
+    </p>
+</div>
 
 
 

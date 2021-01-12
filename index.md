@@ -5,5 +5,3 @@
 layout: default
 ---
 {% include home.html %}
-
-<div class="stagger-visualizer"></div>

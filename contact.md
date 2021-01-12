@@ -13,7 +13,7 @@ permalink: /contact/
 
 
 <br>
-<a href="mailto:infinite22@gmail.com"><img src="../assets/img/telegram.png" height="42" width="42"></a>
+<a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="42" width="42"></a>
 <br>
 <!--<a href="https://api.whatsapp.com/send?phone=27604024843"><img src="../assets/img/whatsapp.png" height="42" width="42"></a>-->
 <!---<a href="https://api.telegram.org/bot{2340097}/send"></a>-->

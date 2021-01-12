@@ -5,8 +5,8 @@
 layout: default
 ---
 <!-- MY STUFF -->
-        
 
 
+<div class="stagger-visualizer"></div>
 
 <!-- END MY STUFF -->

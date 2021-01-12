@@ -237,16 +237,16 @@ footer.page-footer .footer-copyright {
 }
 
 #wrapper {
-  max-width: 1000px;
+  max-width: 960px;
   border: none;
   margin: auto;
   padding:0px;
 }
 
 #gallery {
-  max-width: 1000px;
+  max-width: 959px;
   border: thin black solid;
   margin: 0 auto;
   background: skyblue;
-  animation: fader 30s cubic-bezier(.8,0,0,.8) infinite;
+  animation: fader 5s cubic-bezier(.8,0,0,.8) infinite;
 }

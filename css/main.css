@@ -258,3 +258,6 @@ footer.page-footer .footer-copyright {
   background: skyblue;
   animation: fader 23s cubic-bezier(.8,0,0,.8) infinite;
 }
+#sound {
+  width:2vw;
+}

@@ -231,19 +231,19 @@ footer.page-footer .footer-copyright {
 }
 
 @keyframes fader{
-  0% {background: url("/assets/img/launch.jpeg")}
+  0% {background: url("/assets/launch.jpeg")}
   100% {background: url("/assets/img/portraits/elon.jpg")}
 }
 
 #wrapper {
-  width:auto;
+  max-width: 1000px;
   border: none;
   margin: auto;
   padding:0px;
 }
 
 #gallery {
-  width:auto;
+  max-width: 1000px;
   border: thin black solid;
   margin: 0 auto;
   background: skyblue;

@@ -8,13 +8,12 @@ permalink: /contact/
 <a>Please contact me by Telegram App, Signal App, Email or Phone:</a>
 <br>
 <br>
-<a href="tel:+27-060-402-4843">+27-0000<img src="../contact" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>"</a>
+<a href="tel:+27-060-402-4843"><img src= class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>"</a>
 
-<a href="../contact" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a>
 
-<strong>Tel: +27-060-402-4843</strong>
+
 <br>
-<strong>Mail: <a href="mailto:infinite22@gmail.com">Send email</a></strong>
+<a href="mailto:infinite22@gmail.com"><img src="../assets/img/telegram.png" height="42" width="42"></a>
 <br>
 <!--<a href="https://api.whatsapp.com/send?phone=27604024843"><img src="../assets/img/whatsapp.png" height="42" width="42"></a>-->
 <!---<a href="https://api.telegram.org/bot{2340097}/send"></a>-->

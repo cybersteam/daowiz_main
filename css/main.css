@@ -232,7 +232,15 @@ footer.page-footer .footer-copyright {
 
 @keyframes fader{
   0% {background: url("/assets/img/launch.jpeg")}
-  50% {background: url("/assets/img/portraits/elon.jpg")}
+  10% {background: url("/assets/img/futurevibes/blob.jpg")}
+  20% {background: url("/assets/img/futurevibes/hangingbythread.jpg")}
+  30% {background: url("/assets/img/portraits/IMG_20200325_122812.jpg")}
+  40% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg")}
+  50% {background: url("/assets/img/futurevibes/IMG_20180613_130227_754.jpg")}
+  60% {background: url("/assets/img/futurevibes/IMG_20200331_160359.jpg")}
+  70% {background: url("/assets/img/futurevibes/IMG_20200403_135606.jpg")}
+  80% {background: url("/assets/img/futurevibes/IMG-20150520-WA0000.jpg")}
+  90% {background: url("/assets/img/portraits/IMG_20200119_140856.jpg")}
   100% {background: url("/assets/img/launch.jpeg")}
 }
 

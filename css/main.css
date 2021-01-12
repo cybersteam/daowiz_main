@@ -256,5 +256,5 @@ footer.page-footer .footer-copyright {
   border: none;
   margin: 0 auto;
   background: skyblue;
-  animation: fader 23s cubic-bezier(1,0,0,1) infinite;
+  animation: fader 23s cubic-bezier(.8,0,0,.8) infinite;
 }

@@ -1,6 +1,6 @@
 ---
 layout: page_apps
-title: Payments and donations.
+title: Payments and gifts.
 permalink: /payments/
 ---
 

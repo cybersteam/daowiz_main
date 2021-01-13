@@ -114,6 +114,7 @@ h3 {
   margin-bottom:20px;
 
 
+
 }
 
 .map {
@@ -235,7 +236,7 @@ footer.page-footer .footer-copyright {
   10% {background: url("/assets/img/futurevibes/blob.jpg"); background-size:cover;}
   20% {background: url("/assets/img/futurevibes/hangingbythread.jpg"); background-size:cover;}
   30% {background: url("/assets/img/portraits/IMG_20200325_122812.jpg"); background-size:cover;}
-  40% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg"); background-size:cover;}
+  40% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg"); background-repeat:repeat;}
   50% {background: url("/assets/img/futurevibes/IMG_20180613_130227_754.jpg"); background-size:cover;}
   60% {background: url("/assets/img/futurevibes/IMG_20200331_160359.jpg"); background-size:cover;}
   70% {background: url("/assets/img/futurevibes/IMG_20200403_135606.jpg"); background-size:cover;}
@@ -245,7 +246,7 @@ footer.page-footer .footer-copyright {
 }
 
 #wrapper {
-  max-width: 960px;
+  max-width: 1024px;
   border: none;
   margin: 0 auto;
   margin-top: -10px;
@@ -253,7 +254,7 @@ footer.page-footer .footer-copyright {
 }
 
 #gallery {
-  max-width: 959px;
+  max-width: 1024px;
   border: none;
   margin: 0 auto;
   background: skyblue;

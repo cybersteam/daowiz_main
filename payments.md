@@ -10,7 +10,12 @@ permalink: /payments/
 <strong>Thanks to you I keep making art and music! Any kind of cash goes:</strong>
 <br>
 <br>
-<a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="80vw" width="80vw" alt="Bitcoin"></a>
+
+<figure>
+  <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="80vw" width="80vw" alt="Bitcoin"></a>
+  <figcaption>BTC</figcaption>
+</figure>
+
 <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="80vw" width="80vw" alt="Ethereum"></a>
 <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="80vw" width="80vw" alt="Credit Card"></a>
 <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="80vw" width="80vw" alt="Snapscan"></a>

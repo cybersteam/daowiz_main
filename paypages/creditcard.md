@@ -4,10 +4,7 @@ title: Credit Card
 permalink: /creditcard/
 ---
 <hr>
-
-<br>
-<hr>
-<p>These two methods allow card payments:</p>
+<p>These three methods allow card payments:</p>
 <br>
 <a href="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/currencyicons/paypal.png" width="165">
 <hr>

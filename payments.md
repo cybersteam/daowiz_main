@@ -8,7 +8,7 @@ permalink: /payments/
 
 <strong>Thanks to you I keep making art and music! Any kind of cash goes:</strong>
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; max-width: 800px;" border="1">
 <tbody>
 
 <tr>

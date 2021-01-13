@@ -20,25 +20,25 @@ permalink: /payments/
 
 <td style="width: 20%;"><figure>
 <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="80vw" width="80vw" alt="Ethereum"></a>
-<figcaption>BTC</figcaption>
+<figcaption>Ether</figcaption>
 </figure>
 </td>
 
 <td style="width: 20%;"><figure>
 <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="80vw" width="80vw" alt="Credit Card"></a>
-<figcaption>BTC</figcaption>
+<figcaption>Cards</figcaption>
 </figure>
 </td>
 
 <td style="width: 20%;"><figure>
 <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="80vw" width="80vw" alt="Snapscan"></a>
-<figcaption>BTC</figcaption>
+<figcaption>Snapscan</figcaption>
 </figure>
 </td>
 
 <td style="width: 20%;"><figure>
 <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="80vw" width="80vw" alt="Zapper"></a>
-<figcaption>BTC</figcaption>
+<figcaption>Zapper</figcaption>
 </figure>
 </td>
 

@@ -16,18 +16,18 @@ html {
   background-color: #03030;
 }
 figure {
-  padding: 4px;
+  padding: 0px;
   margin: 0px;
 
 }
 
 figcaption {
-  background-color: grey;
-  color:#cccccc;
+  background-color: #212121;
+  color:#525252;
   font-style: italic;
-  padding: 2px;
-  text-align: center;
-  
+  padding: 0px;
+
+
 }
 .venue_logo{
 

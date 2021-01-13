@@ -7,7 +7,7 @@ permalink: /payments/
 <!--<a>We are currently raising funds for a world tour to play our music far and wide, spreading the message of a healthy future for our planet. Why not send us some cash to help us achieve this goal? Your contribution will be wisely spent to create and perform music that inspires people to look inward and take action in their lives to co-create a living future. We accept Bitcoin, Ethereum, All traditional currencies, any other gifts and/or adventures around the world too. We look forward to playing in your town!</a>-->
 
 <br>
-<strong>Thanks to you we can keep making art in this world! Any kind of cash goes:</strong>
+<strong>Thanks to you I keep making art and music! Any kind of cash goes:</strong>
 <br>
 <br>
 <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="80vw" width="80vw" alt="Bitcoin"></a>
@@ -15,7 +15,8 @@ permalink: /payments/
 <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="80vw" width="80vw" alt="Credit Card"></a>
 <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="80vw" width="80vw" alt="Snapscan"></a>
 <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="80vw" width="80vw" alt="Zapper"></a>
-
+<br>
+<a href="/payments"><p>If you don't see an option you'd like here, please let me know about it..<p></a>
 <br>
 <br>
 <br>

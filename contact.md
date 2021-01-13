@@ -15,8 +15,8 @@ permalink: /contact/
 
 <div class="buttons">
     <p style="text-align: center;">
-      <a href="tg://user?id=123456789"><img src="../assets/img/telegram.png" height="42" width="42"></a>
-      <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="42" width="42"></a><a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-medium"><i class="large material-icons">call</i>>
+      <a href="tg://user?id=123456789"><img src="../assets/img/telegram.png" height="60" width="60"></a>
+      <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="60" width="60"></a><a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>>
     </p>
 
 </div>

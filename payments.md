@@ -16,7 +16,7 @@ permalink: /payments/
 <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="80vw" width="80vw" alt="Snapscan"></a>
 <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="80vw" width="80vw" alt="Zapper"></a>
 <br>
-<a href="/payments"><p>If you don't see an option you'd like here, please let me know about it..<p></a>
+<a href="/payments">If you don't see an option you'd like here, please let me know about it..</a>
 <br>
 <br>
 <br>

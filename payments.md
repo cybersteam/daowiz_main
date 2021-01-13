@@ -8,8 +8,6 @@ permalink: /payments/
 
 <br>
 <strong>Thanks to you I keep making art and music! Any kind of cash goes:</strong>
-<br>
-<br>
 
 <figure>
   <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="80vw" width="80vw" alt="Bitcoin"></a>

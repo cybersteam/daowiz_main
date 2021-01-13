@@ -27,11 +27,13 @@ html {
   font-style: italic;
   background-color: #000;
 }
+
 @media (max-width: 30em) {
 .message {
 display: none;
 
 }
+
 }
 .intro{
   color: #000000;

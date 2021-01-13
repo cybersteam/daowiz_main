@@ -267,7 +267,7 @@ footer.page-footer .footer-copyright {
   border: none;
   margin: 0 auto;
   background: skyblue;
-  animation: fader 23s cubic-bezier(.8,0,0,.8) infinite;
+  animation: fader 30s cubic-bezier(.8,0,0,.8) infinite;
 }
 #sound {
   width:2vw;

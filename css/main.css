@@ -16,13 +16,13 @@ html {
   background-color: #03030;
 }
 figure {
-  border: none;
   padding: 4px;
   margin: 0px;
+  width: 80vw;
 }
 
 figcaption {
-  background-color: black;
+  background-color: grey;
   color:#cccccc;
   font-style: italic;
   padding: 2px;

@@ -13,10 +13,26 @@ permalink: /payments/
   <figcaption>BTC</figcaption>
 </figure>
 
+<figure>
 <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="80vw" width="80vw" alt="Ethereum"></a>
+<figcaption>BTC</figcaption>
+</figure>
+
+<figure>
 <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="80vw" width="80vw" alt="Credit Card"></a>
+<figcaption>BTC</figcaption>
+</figure>
+
+<figure>
 <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="80vw" width="80vw" alt="Snapscan"></a>
+<figcaption>BTC</figcaption>
+</figure>
+
+<figure>
 <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="80vw" width="80vw" alt="Zapper"></a>
+<figcaption>BTC</figcaption>
+</figure>
+
 <br>
 <a href="/payments">If you don't see an option you'd like here, please let me know about it..</a>
 <br>

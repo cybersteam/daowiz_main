@@ -8,30 +8,43 @@ permalink: /payments/
 
 <strong>Thanks to you I keep making art and music! Any kind of cash goes:</strong>
 
-<figure>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+
+<tr>
+<td style="width: 20%;"><figure>
   <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="80vw" width="80vw" alt="Bitcoin"></a>
   <figcaption>BTC</figcaption>
 </figure>
+</td>
 
-<figure>
+<td style="width: 20%;"><figure>
 <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="80vw" width="80vw" alt="Ethereum"></a>
 <figcaption>BTC</figcaption>
 </figure>
+</td>
 
-<figure>
+<td style="width: 20%;"><figure>
 <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="80vw" width="80vw" alt="Credit Card"></a>
 <figcaption>BTC</figcaption>
 </figure>
+</td>
 
-<figure>
+<td style="width: 20%;"><figure>
 <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="80vw" width="80vw" alt="Snapscan"></a>
 <figcaption>BTC</figcaption>
 </figure>
+</td>
 
-<figure>
+<td style="width: 20%;"><figure>
 <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="80vw" width="80vw" alt="Zapper"></a>
 <figcaption>BTC</figcaption>
 </figure>
+</td>
+
+</tr>
+</tbody>
+</table>
 
 <br>
 <a href="/payments">If you don't see an option you'd like here, please let me know about it..</a>

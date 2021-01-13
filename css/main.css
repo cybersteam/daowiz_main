@@ -18,7 +18,7 @@ html {
 figure {
   padding: 4px;
   margin: 0px;
-  width: 80vw;
+
 }
 
 figcaption {
@@ -27,7 +27,7 @@ figcaption {
   font-style: italic;
   padding: 2px;
   text-align: center;
-  width: 80vw;
+  
 }
 .venue_logo{
 

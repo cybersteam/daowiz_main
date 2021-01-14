@@ -10,7 +10,7 @@ permalink: /payments/
 
 <div class="paybutts">
 
-<table style="border-collapse: collapse; max-width: 800px;" border="0">
+<table style="border-collapse: collapse;" border="0">
 <tbody>
 
 <tr>

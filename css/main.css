@@ -17,11 +17,11 @@ html {
 }
 
 td {
-  padding: 0px 0px;
+  padding: 0px 0px !important;
   display: table-cell;
   text-align: left;
   vertical-align: middle;
-  border-radius: 0px;
+  border-radius: 0px !important;
 }
 
 figure {

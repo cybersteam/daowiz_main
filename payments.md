@@ -14,7 +14,7 @@ permalink: /payments/
 <tbody>
 
 <tr>
-<td style="width: 80vw;"><figure>
+<td><figure>
   <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="80vw" width="80vw" alt="Bitcoin"></a>
   <figcaption>BTC</figcaption>
 </figure>

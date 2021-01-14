@@ -297,6 +297,9 @@ footer.page-footer .footer-copyright {
   width:2vw;
   text-align: center;
 }
+.playbutts {
+  width:auto;
+}
 
 @media (max-width: 30em) {
 .paybutts {

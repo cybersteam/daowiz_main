@@ -8,6 +8,8 @@ permalink: /payments/
 
 <strong>Thanks to you I keep making art and music! Any kind of cash goes:</strong>
 
+<div class="paybutts">
+
 <table style="border-collapse: collapse; max-width: 800px;" border="0">
 <tbody>
 
@@ -45,6 +47,8 @@ permalink: /payments/
 </tr>
 </tbody>
 </table>
+
+<div>
 
 <br>
 <a href="/payments">If you don't see an option you'd like here, please let me know about it..</a>

@@ -16,35 +16,35 @@ Visit again soon for updates on new music and artwork. You can also use the cont
 <tbody>
 
 <tr>
-<td><figure>
-  <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="70vw" width="70vw" alt="Bitcoin"></a>
-  <figcaption>BTC</figcaption>
-</figure>
-</td>
+    <td><figure>
+      <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="70vw" width="70vw" alt="Bitcoin"></a>
+      <figcaption>BTC</figcaption>
+    </figure>
+    </td>
 
-<td><figure>
-<a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="70vw" width="70vw" alt="Ethereum"></a>
-<figcaption>Ether</figcaption>
-</figure>
-</td>
+    <td><figure>
+    <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="70vw" width="70vw" alt="Ethereum"></a>
+    <figcaption>Ether</figcaption>
+    </figure>
+    </td>
 
-<td><figure>
-<a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="70vw" width="70vw" alt="Credit Card"></a>
-<figcaption>Cards</figcaption>
-</figure>
-</td>
+    <td><figure>
+    <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="70vw" width="70vw" alt="Credit Card"></a>
+    <figcaption>Cards</figcaption>
+    </figure>
+    </td>
 
-<td><figure>
-<a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="70vw" width="70vw" alt="Snapscan"></a>
-<figcaption>Snapscan</figcaption>
-</figure>
-</td>
+    <td><figure>
+    <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="70vw" width="70vw" alt="Snapscan"></a>
+    <figcaption>Snapscan</figcaption>
+    </figure>
+    </td>
 
-<td><figure>
-<a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="70vw" width="70vw" alt="Zapper"></a>
-<figcaption>Zapper</figcaption>
-</figure>
-</td>
+    <td><figure>
+    <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="70vw" width="70vw" alt="Zapper"></a>
+    <figcaption>Zapper</figcaption>
+    </figure>
+    </td>
 
 </tr>
 </tbody>

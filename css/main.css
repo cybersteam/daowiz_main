@@ -169,6 +169,7 @@ footer.page-footer {
   box-sizing: border-box;
   position: fixed;
   bottom: 0;
+  text-align: center;
 }
 
 footer.page-footer .footer-copyright {
@@ -305,4 +306,7 @@ footer.page-footer .footer-copyright {
 .paybutts {
 width: 90vw;
 
+}
+.videocontrols{
+    text-align: center;
 }

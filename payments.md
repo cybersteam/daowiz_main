@@ -53,7 +53,7 @@ Visit again soon for updates on new music and artwork. You can also use the cont
 <div>
 
 <br>
-If you don't see an option you'd like here, please <a href="http://onlineivan.com/payments">let me know about it..</a>
+If you don't see an option you'd like here, please click here to <a href="http://onlineivan.com/contact">let me know about it..</a>
 <br>
 <br>
 <br>

@@ -47,7 +47,7 @@ figcaption {
   .playbutts{
     display:inline-block;
     /*text-align: center;*/
-    width: 80%;
+    width: 80vw;
     bottom:15vh;
 
   }

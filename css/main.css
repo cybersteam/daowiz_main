@@ -43,11 +43,11 @@ figcaption {
   width: 80vw;
 
 }
-@media screen and (max-width:800px) {
+@media only screen and (max-width:768px) {
   .playbutts{
-    display:inline-block;
+
     /*text-align: center;*/
-    width: 80%;
+    width: 750px;
     bottom:15vh;
 
   }

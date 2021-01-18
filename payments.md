@@ -55,7 +55,7 @@ You can also use the contact page to chat with me about currently available work
 
 
 <br>
-If you don't see an option you'd like here, please click here to <a href="http://onlineivan.com/contact">let me know about it..</a>
+<a href="http://onlineivan.com/contact">If you don't see an option you'd like here, please click here to let me know about it..</a>
 <br>
 <br>
 <br>

@@ -36,17 +36,17 @@ figcaption {
   padding: 0px;
 }
 
-.playbutt{
+.playbutts{
   display:inline-block;
   /*text-align: center;*/
   bottom:15vh;
 
 }
 @media (max-width:8em) {
-  .playbutt{
+  .playbutts{
     display:inline-block;
     /*text-align: center;*/
-    width: 80%
+    width: 80%;
     bottom:15vh;
 
   }

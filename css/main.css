@@ -12,6 +12,11 @@ body,html {
 
 }
 
+.page {
+  margin: 0px 10px 0px 10px;
+  height: 120%;
+  width:100%;
+}
 
 figure {
   display:inline-block;
@@ -69,11 +74,7 @@ figcaption {
 
 }
 
-.page {
-  margin: 0px 10px 0px 10px;
-  height: 120%;
-  width:100%;
-}
+
 
 h1{
   font-size: 3em;

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Payments and gifts.
+title: Paypoint
 permalink: /payments/
 ---
 

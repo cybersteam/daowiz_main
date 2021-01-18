@@ -144,7 +144,6 @@ display: none;
 .page {
   margin: 0 10px 0 10px;
   height: 150%;
-  width: 100%;
 }
 h1{
   font-size: 3em;
@@ -195,9 +194,7 @@ footer.page-footer .footer-copyright {
   padding-top:10px;
   text-align: center;
 }
-.Test_Audio {
-  text-align: center;
-}
+
 /* Customize the label (the container) */
 .cont {
  display: block;
@@ -297,7 +294,7 @@ footer.page-footer .footer-copyright {
 }
 
 #wrapper {
-  max-width: 1024px;
+  max-width: 100vw;
   border: none;
   margin: 0 auto;
   margin-top: -10px;
@@ -319,6 +316,6 @@ footer.page-footer .footer-copyright {
 #Test_Audio {
   text-align: center;
   position:relative;
-  padding-left: 30px;
+  padding-left: 28px;
 
 }

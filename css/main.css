@@ -36,7 +36,7 @@ figcaption {
   /*width: 80vw;*/
 
 }
-@media only screen and (max-width:700px) {
+@media only screen and (max-width:760px) {
   td {
     width: 70px;
   }
@@ -120,9 +120,9 @@ footer.page-footer .footer-copyright {
   text-align: center;
 }
 
-/* Customize the label (the container) */
+/* messages */
 
-/* Create a custom checkbox */
+/* messages */
 
 .row {
   display: flex;

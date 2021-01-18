@@ -7,7 +7,7 @@ body,html {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 95%;
   height: 100vh;
 
 }
@@ -44,14 +44,21 @@ figcaption {
 
 }
 @media only screen and (max-width:760px) {
+  body,html {
+    padding: 0 20px 0 20px;
+  }
   td {
     width: 70px;
   }
+  figure {
+    display:inline-block;
+    margin: 0;
+    padding:-20px;
+
+  }
 
   .playbutts{
-
-
-    width: 10vw;
+    width: 2vw;
     /*bottom:15vh;*/
 
   }

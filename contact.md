@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<div>
+
   <a>Please contact me by Telegram on mobile, Signal on mobile, Email or Phone:</a>
   <hr>
 

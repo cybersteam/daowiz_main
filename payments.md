@@ -1,5 +1,5 @@
 ---
-layout: page_apps
+layout: page
 title: Payments and gifts.
 permalink: /payments/
 ---

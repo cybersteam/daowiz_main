@@ -21,6 +21,8 @@ body,html {
 figure {
   display:inline-block;
   width: 80px;
+  margin: 0;
+  padding:0;
 }
 
 figcaption {

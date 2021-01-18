@@ -1,6 +1,6 @@
 body,html {
   color: #0091ea !important;
-  border-top: 60px solid #01579b;
+  border-top: 30px solid #01579b;
   background-color: #252525;
   position: absolute;
   display: flex;
@@ -49,17 +49,17 @@ figcaption {
     padding: 0 20px 0 20px;
   }
   td {
-    width: 70px;
+    width: 50px;
   }
   figure {
     display:inline-block;
-    margin: 0;
-    padding:-20px;
+    margin: 0px;
+    padding:0px;
 
   }
 
   .playbutts{
-    width: 2vw;
+    width: 1vw;
     /*bottom:15vh;*/
 
   }

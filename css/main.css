@@ -37,8 +37,8 @@ figcaption {
 }
 
 .paypage{
-  width: 90%;
-  display: flex;
+  width: auto;
+  /*display: flex;*/
 }
 
 .playbutts{

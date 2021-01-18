@@ -35,11 +35,11 @@ figcaption {
   /*width: 80vw;*/
 
 }
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:700px) {
   .playbutts{
 
     text-align: center;
-    width: 100%;
+    width: 600px;
     /*bottom:15vh;*/
 
   }
@@ -65,7 +65,7 @@ figcaption {
 }
 
 .page {
-  margin: 10px 0px 10px 0px;
+  margin: 0px 10px 0px 10px;
   height: 120%;
   width:100%;
 }

@@ -10,9 +10,9 @@ permalink: /payments/
 
 Visit again soon for updates on new music and artwork. You can also use the contact page to chat with me about currently available work and requests.
 
-<div class="paybutts">
 
-<table style="border-collapse: collapse;" border="0">
+
+<table class="paybutts" style="border-collapse: collapse;" border="0">
 <tbody>
 
 <tr>
@@ -50,7 +50,7 @@ Visit again soon for updates on new music and artwork. You can also use the cont
 </tbody>
 </table>
 
-<div>
+
 
 <br>
 If you don't see an option you'd like here, please click here to <a href="http://onlineivan.com/contact">let me know about it..</a>

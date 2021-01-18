@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-
+<div>
   <a>Please contact me by Telegram on mobile, Signal on mobile, Email or Phone:</a>
   <hr>
 
@@ -19,6 +19,7 @@ permalink: /contact/
       <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="60" width="60"></a><a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>>
     </p>
 
+</div>
 </div>
 
 

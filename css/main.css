@@ -36,18 +36,22 @@ figcaption {
   padding: 0px;
 }
 
+.paypage{
+  width: 90%;
+}
+
 .playbutts{
   display:inline-block;
   /*text-align: center;*/
   bottom:15vh;
-  width: 80vw;
+  /*width: 80vw;*/
 
 }
 @media only screen and (max-width:768px) {
   .playbutts{
 
     text-align: center;
-    width: 700px;
+    width: 100%;
     /*bottom:15vh;*/
 
   }

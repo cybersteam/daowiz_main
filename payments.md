@@ -5,7 +5,7 @@ permalink: /payments/
 ---
 
 <!--<a>We are currently raising funds for a world tour to play our music far and wide, spreading the message of a healthy future for our planet. Why not send us some cash to help us achieve this goal? Your contribution will be wisely spent to create and perform music that inspires people to look inward and take action in their lives to co-create a living future. We accept Bitcoin, Ethereum, All traditional currencies, any other gifts and/or adventures around the world too. We look forward to playing in your town!</a>-->
-
+<div class="paypage">
 <strong>If your'e here to support, then go ahead and choose one of the ways to give below. Thanks to you I'll keep making art and music as much as possible!! Thank you!</strong>
 
 Visit again soon for updates on new music and artwork. You can also use the contact page to chat with me about currently available work and requests.
@@ -57,3 +57,4 @@ If you don't see an option you'd like here, please click here to <a href="http:/
 <br>
 <br>
 <br>
+</div>

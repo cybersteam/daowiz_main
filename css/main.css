@@ -317,15 +317,3 @@ footer.page-footer .footer-copyright {
   padding-left: 30px;
 
 }
-.playbutts {
-  width:auto;
-}
-
-@media (max-width: 30em) {
-.paybutts {
-width: 90vw;
-
-}
-.videocontrols{
-    text-align: center;
-}

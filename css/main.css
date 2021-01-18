@@ -1,4 +1,4 @@
-body {
+body,html {
   color: #0091ea !important;
   border-top: 60px solid #01579b;
   background-color: #252525;
@@ -12,21 +12,9 @@ body {
 
 }
 
-html {
-  background-color: #03030;
-}
-
-td {
-  padding: 0px 0px !important;
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-  border-radius: 0px !important;
-}
 
 figure {
-  width:80px;
-  height:80px;
+  display:inline-block;
 }
 
 figcaption {
@@ -42,8 +30,7 @@ figcaption {
 }
 
 .playbutts{
-  display:inline-block;
-  /*text-align: center;*/
+  text-align: center;
   bottom:15vh;
   /*width: 80vw;*/
 
@@ -70,20 +57,18 @@ figcaption {
 }
 
 @media (max-width: 900px) {
-.message {
-display: none;
+  .message {
+      display: none;
+
+    }
 
 }
-
-}
-
-
-
 
 .page {
   margin: 0 10px 0 10px;
-  height: 150%;
+  height: 120%;
 }
+
 h1{
   font-size: 3em;
   color: ##f2ebeb;

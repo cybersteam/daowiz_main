@@ -12,6 +12,9 @@ body,html {
   padding: 0 10px 0 10px;
 
 }
+.tel {
+  margin-top: -20px;
+}
 
 .page {
   margin: 0px 10px 0px 10px;

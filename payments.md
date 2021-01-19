@@ -6,10 +6,10 @@ permalink: /payments/
 <div class="paypage">
 <strong>If your'e here to pay for something that you have ordered or arranged, or if you are giving a donation to the cause, then go ahead and choose one of the ways to pay below.  </strong>
 <br>
-Here's to a future filled with arts of epic design and inspiration.
 <br>
+Here's to a future filled with arts of epic design and inspiration.
 Thanks to you I'll keep creating as much as possible into the future!!
-Contact me to discuss currently available work and requests.
+Contact me to discuss currently available work, requests etc.
 
 <table class="paybutts" style="border-collapse: collapse;" border="0">
 <tbody>

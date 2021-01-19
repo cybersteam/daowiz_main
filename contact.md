@@ -15,7 +15,7 @@ permalink: /contact/
 
 <div class="buttons">
     <p style="text-align: center;">
-      <a href="tg://user?id=123456789"><img src="../assets/img/telegram.png" height="60" width="60"></a>
+      <a href="tg://user?id=648824384"><img src="../assets/img/telegram.png" height="60" width="60"></a>
       <a href="intent://+27604024843#Intent;scheme=smsto;package=org.thoughtcrime.securesms;action=android.intent.action.SENDTO;end"><img src="../assets/img/signal.png" height="60" width="60"></a>
       <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="60" width="60"></a><a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i>>
     </p>

@@ -6,5 +6,5 @@ permalink: /commissions/
 
 <!--Page commissions-->
 <br>
-Daowiz does musical, artwork and technological commissions for various clients across a variety of industries.. our work is always environmentally focused, creating the next level of life on planet earth.
+Ivan does musical, artwork and technological commissions for various clients across a variety of industries.. "My work is always environmentally focused, creating the next level of life on planet earth."
 <br>

@@ -4,11 +4,11 @@ title: Paypoint
 permalink: /payments/
 ---
 <div class="paypage">
-<strong>If your'e here to pay for something that you have ordered or arranged, or if you are giving a donation to the cause, then go ahead and choose one of the ways to pay below.  </strong>
+<strong>If your'e here to pay for something that you have ordered or arranged, Or if you are just giving a donation to the cause, then go ahead and choose one of the ways to pay below.  </strong>
 <br>
 <br>
-Here's to a future filled with arts of epic design and inspiration.
-Thanks to you I'll keep creating as much as possible into the future!!
+<!-- Here's to a future filled with arts of epic design and inspiration.
+Thanks to you I'll keep creating as much as possible into the future!!-->
 Contact me to discuss currently available work, requests etc.
 
 <table class="paybutts" style="border-collapse: collapse;" border="0">
@@ -24,6 +24,28 @@ Contact me to discuss currently available work, requests etc.
     <td><figure>
     <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="50vw" width="50vw" alt="Ethereum"></a>
     <figcaption>Ether</figcaption>
+    </figure>
+    </td>
+
+    <td><figure>
+    <a href="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/paypal.png" height="50vw" width="50vw" alt="Paypal"></a>
+    <figcaption>Paypal</figcaption>
+    </figure>
+    </td>
+
+
+
+</tr>
+</tbody>
+</table>
+<table class="paybutts" style="border-collapse: collapse;" border="0">
+<tbody>
+
+<tr>
+
+    <td><figure>
+    <a href="../creditcard"><img src="../assets/img/payfast.png" height="50vw" width="50vw" alt="Payfast"></a>
+    <figcaption>Payfast</figcaption>
     </figure>
     </td>
 
@@ -45,26 +67,7 @@ Contact me to discuss currently available work, requests etc.
     </figure>
     </td>
 
-</tr>
-</tbody>
-</table>
-<hr>
-<table class="paybutts" style="border-collapse: collapse;" border="0">
-<tbody>
 
-<tr>
-
-    <td><figure>
-    <a href="../creditcard"><img src="../assets/img/payfast.png" height="50vw" width="50vw" alt="Payfast"></a>
-    <figcaption>Payfast</figcaption>
-    </figure>
-    </td>
-
-    <td><figure>
-    <a href="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/currencyicons/paypal.png" height="50vw" width="50vw" alt="Paypal"></a>
-    <figcaption>Paypal</figcaption>
-    </figure>
-    </td>
 
 </tr>
 </tbody>

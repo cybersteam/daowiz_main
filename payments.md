@@ -55,13 +55,13 @@ Contact me to discuss currently available work, requests etc.
 <tr>
 
     <td><figure>
-    <a href="../payfast"><img src="../assets/img/currencyicons/ether.png" height="50vw" width="50vw" alt="Ethereum"></a>
+    <a href="../payfast"><img src="../assets/img/currencyicons/payfast.png" height="50vw" width="50vw" alt="Ethereum"></a>
     <figcaption>Ether</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="../paypal"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="50vw" width="50vw" alt="Credit Card"></a>
+    <a href="../paypal"><img src="../assets/img/currencyicons/paypal.png" height="50vw" width="50vw" alt="Credit Card"></a>
     <figcaption>Cards</figcaption>
     </figure>
     </td>

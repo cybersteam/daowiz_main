@@ -16,7 +16,7 @@ Contact me to discuss currently available work, requests etc.
 
 <tr>
     <td><figure>
-      <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="70vw" width="70vw" alt="Bitcoin"></a>
+      <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="60vw" width="60vw" alt="Bitcoin"></a>
       <figcaption>BTC</figcaption>
     </figure>
     </td>

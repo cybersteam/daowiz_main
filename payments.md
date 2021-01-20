@@ -48,6 +48,28 @@ Contact me to discuss currently available work, requests etc.
 </tr>
 </tbody>
 </table>
+<hr>
+<table class="paybutts" style="border-collapse: collapse;" border="0">
+<tbody>
+
+<tr>
+
+    <td><figure>
+    <a href="../payfast"><img src="../assets/img/currencyicons/ether.png" height="70vw" width="70vw" alt="Ethereum"></a>
+    <figcaption>Ether</figcaption>
+    </figure>
+    </td>
+
+    <td><figure>
+    <a href="../paypal"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="70vw" width="70vw" alt="Credit Card"></a>
+    <figcaption>Cards</figcaption>
+    </figure>
+    </td>
+
+</tr>
+</tbody>
+</table>
+
 
 
 

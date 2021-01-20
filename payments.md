@@ -16,31 +16,31 @@ Contact me to discuss currently available work, requests etc.
 
 <tr>
     <td><figure>
-      <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="60vw" width="60vw" alt="Bitcoin"></a>
+      <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="50vw" width="50vw" alt="Bitcoin"></a>
       <figcaption>BTC</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="70vw" width="70vw" alt="Ethereum"></a>
+    <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="50vw" width="50vw" alt="Ethereum"></a>
     <figcaption>Ether</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="70vw" width="70vw" alt="Credit Card"></a>
+    <a href="../creditcard"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="50vw" width="50vw" alt="Credit Card"></a>
     <figcaption>Cards</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="70vw" width="70vw" alt="Snapscan"></a>
+    <a href="../snapscan"><img src="../assets/img/currencyicons/snapscan.png" height="50vw" width="50vw" alt="Snapscan"></a>
     <figcaption>Snapscan</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="70vw" width="70vw" alt="Zapper"></a>
+    <a href="../zapper"><img src="../assets/img/currencyicons/zapper.jpg" height="50vw" width="50vw" alt="Zapper"></a>
     <figcaption>Zapper</figcaption>
     </figure>
     </td>
@@ -55,13 +55,13 @@ Contact me to discuss currently available work, requests etc.
 <tr>
 
     <td><figure>
-    <a href="../payfast"><img src="../assets/img/currencyicons/ether.png" height="70vw" width="70vw" alt="Ethereum"></a>
+    <a href="../payfast"><img src="../assets/img/currencyicons/ether.png" height="50vw" width="50vw" alt="Ethereum"></a>
     <figcaption>Ether</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="../paypal"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="70vw" width="70vw" alt="Credit Card"></a>
+    <a href="../paypal"><img src="../assets/img/currencyicons/credit-cards-icon.png" height="50vw" width="50vw" alt="Credit Card"></a>
     <figcaption>Cards</figcaption>
     </figure>
     </td>

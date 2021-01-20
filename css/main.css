@@ -160,15 +160,17 @@ footer.page-footer .footer-copyright {
 
 @keyframes fader{
   0% {background: url("/assets/img/launch.jpeg"); background-size:cover;}
-  10% {background: url("/assets/img/futurevibes/blob.jpg"); background-size:cover;}
-  20% {background: url("/assets/img/futurevibes/hangingbythread.jpg"); background-size:cover;}
-  30% {background: url("/assets/img/portraits/IMG_20200325_122812.jpg"); background-size:cover;}
-  40% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg"); background-repeat:repeat;}
-  50% {background: url("/assets/img/futurevibes/IMG_20180613_130227_754.jpg"); background-size:cover;}
-  60% {background: url("/assets/img/futurevibes/IMG_20200331_160359.jpg"); background-size:cover;}
-  70% {background: url("/assets/img/futurevibes/IMG_20200403_135606.jpg"); background-size:cover;}
-  80% {background: url("/assets/img/futurevibes/IMG-20150520-WA0000.jpg"); background-size:cover;}
-  90% {background: url("/assets/img/portraits/IMG_20200119_140856.jpg"); background-size:cover;}
+  7.69% {background: url("/assets/img/futurevibes/blob.jpg"); background-size:cover;}
+  15.3% {background: url("/assets/img/futurevibes/hangingbythread.jpg"); background-size:cover;}
+  23.07% {background: url("/assets/img/portraits/IMG_20200325_122812.jpg"); background-size:cover;}
+  30.76% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg"); background-repeat:repeat;}
+  38.46% {background: url("/assets/img/futurevibes/IMG_20180613_130227_754.jpg"); background-size:cover;}
+  46.15% {background: url("/assets/img/futurevibes/IMG_20200331_160359.jpg"); background-size:cover;}
+  53.84% {background: url("/assets/img/futurevibes/IMG_20200403_135606.jpg"); background-size:cover;}
+  61.53% {background: url("/assets/img/futurevibes/IMG-20150520-WA0000.jpg"); background-size:cover;}
+  69.23% {background: url("/assets/img/portraits/IMG_20200119_140856.jpg"); background-size:cover;}
+  76.92% {background: url("/assets/img/clayman.jpg"); background-size:cover;}
+  84.61% {background: url("/assets/img/forest.jpg"); background-size:cover;}
   100% {background: url("/assets/img/launch.jpeg")}
 }
 

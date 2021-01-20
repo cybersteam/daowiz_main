@@ -4,12 +4,12 @@ title: Paypoint
 permalink: /payments/
 ---
 <div class="paypage">
-<strong>If your'e here to pay for something that you have ordered or arranged, Or if you are just giving a donation to the cause, then go ahead and choose one of the ways to pay below.  </strong>
+<strong>Paying for something that you have ordered or arranged? Maybe you're giving a donation to the cause? Just choose one of the ways to pay below.  </strong>
 <br>
 <br>
 <!-- Here's to a future filled with arts of epic design and inspiration.
 Thanks to you I'll keep creating as much as possible into the future!!-->
-Contact me to discuss currently available work, requests etc.
+Contact me to discuss currently available work, commissions etc.
 
 <table class="paybutts" style="border-collapse: collapse;" border="0">
 <tbody>

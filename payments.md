@@ -61,7 +61,7 @@ Contact me to discuss currently available work, requests etc.
     </td>
 
     <td><figure>
-    <a href="../paypal"><img src="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/currencyicons/paypal.png" height="50vw" width="50vw" alt="Paypal"></a>
+    <a href="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/currencyicons/paypal.png" height="50vw" width="50vw" alt="Paypal"></a>
     <figcaption>Paypal</figcaption>
     </figure>
     </td>

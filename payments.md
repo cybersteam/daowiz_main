@@ -4,7 +4,7 @@ title: Paypoint
 permalink: /payments/
 ---
 <div class="paypage">
-<strong>Paying for something that you have ordered or arranged? Maybe you're giving a donation to the cause? Just choose one of the ways to pay below.  </strong>
+<strong>To pay me for something we've arranged or donate just choose one of the ways to pay below.  </strong>
 <br>
 <br>
 <!-- Here's to a future filled with arts of epic design and inspiration.

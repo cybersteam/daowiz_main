@@ -1,0 +1,202 @@
+body,html {
+  color: #0091ea !important;
+  border-top: 30px solid #01579b;
+  background-color: #252525;
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  padding: 0 10px 0 10px;
+
+}
+.tel {
+  margin-top: -60px;
+}
+
+.page {
+  margin: 0px 10px 0px 10px;
+  height: 120%;
+  width:100%;
+}
+
+figure {
+  display:inline-block;
+  width: 80px;
+  margin: 0;
+  padding:0;
+}
+
+figcaption {
+  background-color: #212121;
+  color:#525252;
+  font-style: italic;
+  padding: 0px;
+}
+
+.paypage{
+
+  /*display: flex;*/
+}
+
+.playbutts{
+
+  bottom:15vh;
+  /*width: 80vw;*/
+
+}
+@media only screen and (max-width:760px) {
+  body,html {
+    padding: -30px 15px 0 15px;
+  }
+  td {
+    width: 50px;
+  }
+  figure {
+    width: 1vw;
+    margin: 0px;
+    padding:0px;
+
+  }
+
+  .playbutts{
+    width: 1vw;
+    /*bottom:15vh;*/
+
+  }
+}
+
+
+
+.message {
+  color: #ff0000;
+  z-index: 3;
+  font-size: 20;
+  text-align: center;
+  font-style: italic;
+  background-color: #000;
+}
+
+@media (max-width: 900px) {
+  .message {
+      display: none;
+
+    }
+
+}
+
+
+
+h1{
+  font-size: 3em;
+  color: ##f2ebeb;
+}
+h3 {
+  font-size: 1.5em;
+}
+
+.fixed-action-btn {
+  margin-bottom:50px;
+
+
+
+}
+
+
+
+hr {
+  border-top: 0.5px solid #636363;
+  width:100%;
+
+  /*border-bottom: 0.5px solid #333333;*/
+}
+
+
+footer.page-footer {
+  background-color: #01579b !important;
+  border-top:3px solid #66bb6a;
+  min-height: 0;
+  vertical-align: baseline;
+  z-index: 2;
+  width:100%;
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
+
+footer.page-footer .footer-copyright {
+  background-color: #0091ea !important;
+  padding-left:20px;
+  padding-top:10px;
+  text-align: center;
+}
+
+/* messages */
+
+/* messages */
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+.page-title {
+  color: ##f2ebeb;
+}
+
+@keyframes fader{
+  0% {background: url("/assets/img/launch.jpeg"); background-size:cover;}
+  7.69% {background: url("/assets/img/futurevibes/blob.jpg"); background-size:cover;}
+  15.3% {background: url("/assets/img/futurevibes/hangingbythread.jpg"); background-size:cover;}
+  23.07% {background: url("/assets/img/portraits/IMG_20200325_122812.jpg"); background-size:cover;}
+  30.76% {background: url("/assets/img/futurevibes/IMG_20180613_125758_292.jpg"); background-repeat:repeat;}
+  38.46% {background: url("/assets/img/futurevibes/IMG_20180613_130227_754.jpg"); background-size:cover;}
+  46.15% {background: url("/assets/img/futurevibes/IMG_20200331_160359.jpg"); background-size:cover;}
+  53.84% {background: url("/assets/img/futurevibes/IMG_20200403_135606.jpg"); background-size:cover;}
+  61.53% {background: url("/assets/img/futurevibes/IMG-20150520-WA0000.jpg"); background-size:cover;}
+  69.23% {background: url("/assets/img/portraits/IMG_20200119_140856.jpg"); background-size:cover;}
+  76.92% {background: url("/assets/img/clayman.jpg"); background-size:cover;}
+  84.61% {background: url("/assets/img/forest.jpg"); background-size:cover;}
+  100% {background: url("/assets/img/launch.jpeg")}
+}
+
+#wrapper {
+  max-width: 1024px;
+  border: none;
+  margin: -45px 5px 0 5px;
+
+  padding:0px;
+}
+
+#gallery {
+  margin-top: -45px;
+  max-width: 1024px;
+  border: none;
+  background: skyblue;
+  animation: fader 40s cubic-bezier(.8,0,0,.8) infinite;
+}
+#sound {
+  width:2vw;
+  text-align: center;
+  position:relative;
+}
+#Test_Audio {
+  text-align: center;
+  position:relative;
+  padding-left: 28px;
+
+}

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: first test
+title: My very first post.
 author: ivan
 ---
 
-this is a test
+This is my first blog post on this "post 2020" mobile site. Here's some art to celebrate!
 
 ![A pic](/assets/img/forest.jpg)

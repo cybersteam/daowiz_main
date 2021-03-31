@@ -1,19 +1,13 @@
 ---
 layout: post
-title: My very first post.
+title: This guy is an inspiration!
 author: ivan
 image: /assets/img/mail.png
 ---
 <header>
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 </header>
-
-![]({{ page.image }})
-
-This is my first blog post on this "post 2020" mobile site. Here's some art to celebrate!
-
-![A pic](/assets/img/forest.jpg)
-
+<iframe width="420" height="315" src="/assets/video/jeremy.mp4" frameborder="0" allowfullscreen></iframe>
 <!--
 Style the posts and post list etc: images and some other good stuff.
 https://www.youtube.com/watch?v=6oKO-7gsM4s&feature=youtu.be

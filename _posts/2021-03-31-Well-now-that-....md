@@ -8,7 +8,7 @@ image: /assets/img/mail.png
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 </header>
 
-Jekyll is a great piece of software to create "static websites". Well documented and easy to implement. It'll have you whipping out fun websites in no time! Not to mention
+Jekyll is a great piece of software to create "static websites". Well documented and easy to implement. It'll have you whipping out fun websites like this blog in no time! 
 
 <!--
 Style the posts and post list etc: images and some other good stuff.

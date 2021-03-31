@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-31T16:30:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ivan Douwes Creations</title><subtitle>Ivan Douwes Creations</subtitle><entry><title type="html">This guy is an inspiration!</title><link href="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html" rel="alternate" type="text/html" title="This guy is an inspiration!" /><published>2021-03-31T00:00:00+02:00</published><updated>2021-03-31T00:00:00+02:00</updated><id>http://localhost:4000/2021/03/31/This%20guy%20is%20an%20inspiration!</id><content type="html" xml:base="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html">&lt;header&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-31T16:39:08+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ivan Douwes Creations</title><subtitle>Ivan Douwes Creations</subtitle><entry><title type="html">This guy is an inspiration!</title><link href="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html" rel="alternate" type="text/html" title="This guy is an inspiration!" /><published>2021-03-31T00:00:00+02:00</published><updated>2021-03-31T00:00:00+02:00</updated><id>http://localhost:4000/2021/03/31/This%20guy%20is%20an%20inspiration!</id><content type="html" xml:base="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html">&lt;header&gt;
 
 &lt;/header&gt;
 &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;/assets/video/jeremy.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=1GskmTFLrA4&amp;feature=youtu.be
 
 &lt;/header&gt;
 
-&lt;p&gt;Jekyll is a great piece of software to create “static websites”. Well documented and easy to implement. It’ll have you whipping out fun websites in no time! Not to mention&lt;/p&gt;
+&lt;p&gt;Jekyll is a great piece of software to create “static websites”. Well documented and easy to implement. It’ll have you whipping out fun websites like this blog in no time!&lt;/p&gt;
 
 &lt;!--
 Style the posts and post list etc: images and some other good stuff.

@@ -12,6 +12,9 @@ body,html {
   padding: 0 10px 0 10px;
 
 }
+ul {
+  list-style-type: circle;
+}
 .tel {
   margin-top: -60px;
 }

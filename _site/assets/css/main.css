@@ -2,14 +2,19 @@ body,html {
   color: #0091ea !important;
   border-top: 30px solid #01579b;
   background-color: #252525;
-  position: absolute;
-  display: flex;
-  flex-wrap: wrap;
+  width: 100%;
+
+  padding: 0 10px 0 10px;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  /*position: absolute;
+  display: flex;
+  flex-wrap: wrap;
   height: 100vh;
-  padding: 0 10px 0 10px;
+  */
+
+
+
 
 }
 ul {
@@ -24,6 +29,8 @@ ul {
   height: 120%;
   width:100%;
 }
+
+
 
 figure {
   display:inline-block;
@@ -102,9 +109,6 @@ h3 {
 
 .fixed-action-btn {
   margin-bottom:50px;
-
-
-
 }
 
 
@@ -161,7 +165,7 @@ footer.page-footer .footer-copyright {
   color: ##f2ebeb;
 }
 
-@keyframes fader{
+/*@keyframes fader{
   0% {background: url("/assets/img/launch.jpeg"); background-size:cover;}
   7.69% {background: url("/assets/img/futurevibes/blob.jpg"); background-size:cover;}
   15.3% {background: url("/assets/img/futurevibes/hangingbythread.jpg"); background-size:cover;}
@@ -175,23 +179,37 @@ footer.page-footer .footer-copyright {
   76.92% {background: url("/assets/img/clayman.jpg"); background-size:cover;}
   84.61% {background: url("/assets/img/forest.jpg"); background-size:cover;}
   100% {background: url("/assets/img/launch.jpeg")}
-}
+}*/
 
-#wrapper {
+#wrapper{
   max-width: 1024px;
   border: none;
   margin: -45px 5px 0 5px;
-
   padding:0px;
 }
 
-#gallery {
+.GalleryGrid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.Gallery_Photo{
+  width:33.3%;
+  width:calc(33.3% - 2px);
+  height:30vw;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 3px;
+}
+
+/*#gallery {
   margin-top: -45px;
   max-width: 1024px;
   border: none;
   background: skyblue;
   animation: fader 40s cubic-bezier(.8,0,0,.8) infinite;
-}
+}*/
 #sound {
   width:2vw;
   text-align: center;

@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-01T09:28:09+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ivan Douwes Creations</title><subtitle>Ivan Douwes Creations</subtitle><entry><title type="html">This guy is an inspiration!</title><link href="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html" rel="alternate" type="text/html" title="This guy is an inspiration!" /><published>2021-03-31T00:00:00+02:00</published><updated>2021-03-31T00:00:00+02:00</updated><id>http://localhost:4000/2021/03/31/This%20guy%20is%20an%20inspiration!</id><content type="html" xml:base="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html">&lt;header&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-21T14:42:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ivan Douwes Creations</title><subtitle>Ivan Douwes Creations</subtitle><entry><title type="html">The Tankwa Artscape</title><link href="http://localhost:4000/2021/04/04/tankwa-artscape.html" rel="alternate" type="text/html" title="The Tankwa Artscape" /><published>2021-04-04T00:00:00+02:00</published><updated>2021-04-04T00:00:00+02:00</updated><id>http://localhost:4000/2021/04/04/tankwa-artscape</id><content type="html" xml:base="http://localhost:4000/2021/04/04/tankwa-artscape.html">&lt;header&gt;
+
+&lt;/header&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mail.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;https://www.transartists.org/air/tankwa-artscape&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/forest.jpg&quot; alt=&quot;A pic&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+Style the posts and post list etc: images and some other good stuff.
+https://www.youtube.com/watch?v=6oKO-7gsM4s&amp;feature=youtu.be
+
+https://www.youtube.com/watch?v=1GskmTFLrA4&amp;feature=youtu.be
+--&gt;</content><author><name>ivan</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mail.png" /></entry><entry><title type="html">This guy is an inspiration!</title><link href="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html" rel="alternate" type="text/html" title="This guy is an inspiration!" /><published>2021-03-31T00:00:00+02:00</published><updated>2021-03-31T00:00:00+02:00</updated><id>http://localhost:4000/2021/03/31/This%20guy%20is%20an%20inspiration!</id><content type="html" xml:base="http://localhost:4000/2021/03/31/This-guy-is-an-inspiration!.html">&lt;header&gt;
 
 &lt;/header&gt;
 &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;/assets/video/jeremy.mp4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;

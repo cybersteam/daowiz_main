@@ -15,10 +15,19 @@ body,html {
   */
 }
 body{
-  border-top: 30px solid #01579b;
-  padding: 50px 0px 0px 0px;
-}
 
+}
+.header{
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align:center;
+  color:#fff;
+  font-style:bold;
+  height:45px;
+  background-color: #01579b;
+  margin:-10px;
+  padding-top:5px;
+
+}
 ul {
   list-style-type: circle;
 }
@@ -184,14 +193,15 @@ footer.page-footer .footer-copyright {
 }*/
 
 #wrapper{
-
-  max-width: 1024px;
+  width:auto;
   border: none;
-  margin: -45px 5px 0 5px;
+  margin:0;
   padding:0px;
+  margin-bottom: 100px;
 }
 
 .GalleryGrid{
+  padding: 10px 0px 0px 0px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -205,6 +215,7 @@ footer.page-footer .footer-copyright {
   background-size: cover;
   margin-bottom: 3px;
 }
+
 
 /*#gallery {
   margin-top: -45px;
@@ -222,5 +233,4 @@ footer.page-footer .footer-copyright {
   text-align: center;
   position:relative;
   padding-left: 28px;
-
 }

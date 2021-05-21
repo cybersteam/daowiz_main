@@ -8,11 +8,10 @@ image: /assets/img/mail.png
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 </header>
 
-![]({{ page.image }})
-
+Took a walk around this deep space, what a pleasure to find!
 https://www.transartists.org/air/tankwa-artscape
 
-![A pic](/assets/img/forest.jpg)
+![A pic](/assets/img/futurevibes/IMG_20180613_130227_754.jpg)
 
 <!--
 Style the posts and post list etc: images and some other good stuff.

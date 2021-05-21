@@ -8,11 +8,11 @@ image: /assets/img/mail.png
 {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
 </header>
 
-![]({{ page.image }})
+<!--![]({{ page.image }})-->
 
 This is my first blog post on this "post 2020" mobile site. Here's some art to celebrate!
 
-![A pic](/assets/img/forest.jpg)
+![A pic](/assets/img/futurevibes/hangingbythread.jpg)
 
 <!--
 Style the posts and post list etc: images and some other good stuff.

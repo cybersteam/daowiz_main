@@ -4,7 +4,7 @@ title: Paypoint
 permalink: /payments/
 ---
 <div class="paypage">
-<strong>To pay me for something we've arranged or donate just choose one of the ways to pay below.  </strong>
+  <strong>To pay me for something we've arranged or donate just choose one of the ways to pay below.  </strong>
 <br>
 <br>
 <!-- Here's to a future filled with arts of epic design and inspiration.
@@ -15,7 +15,9 @@ Contact me to discuss currently available work, commissions etc.
 <tbody>
 
 <tr>
-    <td><figure>
+    <td>
+    <!-- figure is used for a photo to give a figcation-->
+    <figure>
       <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="50vw"  alt="Bitcoin"></a>
       <figcaption>BTC</figcaption>
     </figure>
@@ -32,16 +34,14 @@ Contact me to discuss currently available work, commissions etc.
       <figcaption>Paypal</figcaption>
     </figure>
     </td>
+</tr>
+</tbody>
+</table>
 
-    </tr>
-    </tbody>
-    </table>
 
-
-    <table class="paybutts" style="border-collapse: collapse;" border="0">
-    <tbody>
-
-    <tr>
+<table class="paybutts" style="border-collapse: collapse;" border="0">
+<tbody>
+<tr>
 
     <td><figure>
     <a href="../creditcard"><img src="../assets/img/payfast.png" height="50vw" width="50vw" alt="Payfast"></a>
@@ -66,9 +66,6 @@ Contact me to discuss currently available work, commissions etc.
     <figcaption>Zapper</figcaption>
     </figure>
     </td>
-
-
-
 </tr>
 </tbody>
 </table>

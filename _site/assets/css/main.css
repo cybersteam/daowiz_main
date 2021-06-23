@@ -70,9 +70,9 @@ figcaption {
 }
 @media only screen and (max-width:760px) {
   body,html {
-    padding: -30px 15px 0 15px;
+    padding: 0px 15px 0 15px;
   }
-  
+
   figure {
     width: 1vw;
     margin: 0px;

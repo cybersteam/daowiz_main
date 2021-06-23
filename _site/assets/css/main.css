@@ -72,14 +72,14 @@ figcaption {
   }
 
   figure {
-    width: 1vw;
+    width: auto;
     margin: 0px;
     padding:0px;
 
   }
 
   .playbutts{
-    width: 1vw;
+    width: auto;
     /*bottom:15vh;*/
   }
 

@@ -36,7 +36,7 @@ permalink: /anons/
 </table>
 
 
-<table class="paybutts" style="border-collapse: collapse;" border="0">
+<table style="border-collapse: collapse;" border="0">
 <tbody>
 <tr>
 
@@ -63,7 +63,7 @@ permalink: /anons/
 </tbody>
 </table>
 
-<table class="paybutts" style="border-collapse: collapse;" border="0">
+<table style="border-collapse: collapse;" border="0">
   <tbody>
     <tr>
       <td><figure>

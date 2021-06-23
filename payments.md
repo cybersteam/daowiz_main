@@ -3,7 +3,7 @@ layout: page
 title: Paypoint
 permalink: /payments/
 ---
-<div class="paypage">
+<div class="page">
   <strong>To pay me for something we've arranged or donate just choose one of the ways to pay below.  </strong>
 <br>
 <br>

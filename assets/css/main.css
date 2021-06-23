@@ -36,10 +36,12 @@ ul {
 }
 
 .page {
-
+  padding-left: 15px;
+  padding-right: 15px;
   /*height: 120%;
   width:100%;*/
 }
+
 
 
 
@@ -58,10 +60,7 @@ figcaption {
 }
 
 
-.paypage{
-  padding-left: 15px;
-  padding-right: 15px;
-}
+
 
 .playbutts{
 
@@ -87,10 +86,7 @@ figcaption {
     width: 1vw;
     /*bottom:15vh;*/
   }
-  .paypage{
-    padding-left: 15px;
-    padding-right: 15px;
-  }
+
 
 }
 

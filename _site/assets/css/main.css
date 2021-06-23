@@ -84,8 +84,13 @@ figcaption {
   .playbutts{
     width: 1vw;
     /*bottom:15vh;*/
+  }
+  .paypage{
+    padding-left: 15px;
+    padding-right: 15px;
 
   }
+
 }
 
 

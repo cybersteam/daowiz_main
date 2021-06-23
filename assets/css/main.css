@@ -11,11 +11,10 @@ body,html {
   /*position: absolute;
   display: flex;
   flex-wrap: wrap;
-
   */
 }
 body{
-
+ width: 99%;
 }
 .header{
   font-family: "Lucida Console", "Courier New", monospace;
@@ -75,15 +74,11 @@ figcaption {
     width: auto;
     margin: 0px;
     padding:0px;
-
   }
-
   .playbutts{
     width: auto;
     /*bottom:15vh;*/
   }
-
-
 }
 .message {
   color: #ff0000;

@@ -57,8 +57,10 @@ figcaption {
   padding: 0px;
 }
 
+
 .paypage{
-  display: flex;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .playbutts{
@@ -88,7 +90,6 @@ figcaption {
   .paypage{
     padding-left: 15px;
     padding-right: 15px;
-
   }
 
 }

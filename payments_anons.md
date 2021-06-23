@@ -4,7 +4,7 @@ title: Anons?
 permalink: /anons/
 ---
 <div class="page">
-  <strong>To pay me for something we've arranged or donate just choose one of the ways to pay below.  These will not be checked for who they are coming from so you will remain anonymous.</strong>
+  <strong>If you'd like to make an anonymouse donation please choose one of the ways to pay below.  I will make no effort to find your identity.</strong>
 <br>
 
 

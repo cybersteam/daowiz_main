@@ -65,7 +65,7 @@ figcaption {
   /*width: 80vw;*/
 
 }
-@media only screen and (max-width:900px) {
+/*@media only screen and (max-width:900px) {
   body,html {
     padding: -30px 15px 0px 15px;
   }
@@ -77,7 +77,7 @@ figcaption {
   }
   .playbutts{
     width: auto;
-    /*bottom:15vh;*/
+
   }
 }
 .message {
@@ -87,7 +87,7 @@ figcaption {
   text-align: center;
   font-style: italic;
   background-color: #000;
-}
+}*/
 
 /*@media (max-width: 900px) {
   .message {

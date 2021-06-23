@@ -11,7 +11,7 @@ permalink: /payments/
 Thanks to you I'll keep creating as much as possible into the future!!-->
 Contact me to discuss currently available work, commissions etc.
 
-<table class="paybutts" style="border-collapse: collapse;" border="0">
+<table style="border-collapse: collapse;" border="0">
 <tbody>
 
 <tr>

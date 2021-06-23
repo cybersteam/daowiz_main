@@ -35,6 +35,7 @@ ul {
 }
 
 .page {
+  width:inherit;
   padding-left: 15px;
   padding-right: 15px;
   /*height: 120%;

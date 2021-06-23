@@ -42,10 +42,8 @@ ul {
   width:100%;*/
 }
 
-
-
-
 figure {
+  text-align: center;
   display:inline-block;
   width: auto;
   margin: 0;

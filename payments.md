@@ -16,32 +16,32 @@ Contact me to discuss currently available work, commissions etc.
 
 <tr>
     <td><figure>
-      <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="50vw" width="50vw" alt="Bitcoin"></a>
+      <a href="../bitcoin"><img src="../assets/img/currencyicons/bit.png" height="50vw"  alt="Bitcoin"></a>
       <figcaption>BTC</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="50vw" width="50vw" alt="Ethereum"></a>
-    <figcaption>Ether</figcaption>
+      <a href="../ethereum"><img src="../assets/img/currencyicons/ether.png" height="50vw"  alt="Ethereum"></a>
+      <figcaption>Ether</figcaption>
     </figure>
     </td>
 
     <td><figure>
-    <a href="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/paypal.png" height="50vw" width="50vw" alt="Paypal"></a>
-    <figcaption>Paypal</figcaption>
+      <a href="https://paypal.me/nativeleap?locale.x=en_US"><img src="../assets/img/paypal.png" height="50vw"  alt="Paypal"></a>
+      <figcaption>Paypal</figcaption>
     </figure>
     </td>
 
+    </tr>
+    </tbody>
+    </table>
 
 
-</tr>
-</tbody>
-</table>
-<table class="paybutts" style="border-collapse: collapse;" border="0">
-<tbody>
+    <table class="paybutts" style="border-collapse: collapse;" border="0">
+    <tbody>
 
-<tr>
+    <tr>
 
     <td><figure>
     <a href="../creditcard"><img src="../assets/img/payfast.png" height="50vw" width="50vw" alt="Payfast"></a>

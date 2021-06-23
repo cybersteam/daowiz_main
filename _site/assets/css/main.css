@@ -72,9 +72,7 @@ figcaption {
   body,html {
     padding: -30px 15px 0 15px;
   }
-  td {
-    width: 2vw;
-  }
+  
   figure {
     width: 1vw;
     margin: 0px;

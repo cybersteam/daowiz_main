@@ -10,24 +10,18 @@ Hey, It’s Ivan here.
 You can support my art here and even get involved with the creative process. Collaboration is fun!
 <br>
 <br>
-Here you are allowed to give a monthly contribution which helps us keep churning out the goodness consistently and gives you access to exclusive work that we create.
+Here you are allowed to give a monthly contribution which helps me keep churning out the goodness consistently and gives you access to exclusive work that I'm busy with.
 <br>
 <br>
-Funds I raise here will all go into making ever better artwork, recordings, video’s, albums, live shows, art and clothing merchandise too so it’s a win win for everyone!! If we raise enough we’ll even start documenting our adventures which is where all the real creativity happens!!
+Funds I raise here will all go into making ever better artwork, recordings, video’s, albums, live shows, art and clothing merchandise too so it’s a win win for everyone!! When I raise enough i'll even start documenting in realtime which would be a really fun art project to undertake!
 <br>
 <br>
-Some of the cool things we give only to our patrons are exclusive music video’s, limited edition artworks and clothing, video blog posts, one time recordings, live streamed shows and more!
+Patrons get exclusive access to limited editions, one time recordings and also have direct interaction with me regarding my creations. If you have idea’s you’d like to see you can tell me about them!
 <br>
 <br>
-If you have idea’s you’d like to see you could even suggest them!!
+This is only for people who want to make a consistent contribution and can afford something regular to help me make magic.
 <br>
 <br>
-There’s no pressure here, this is just for people who really want to contribute and can afford something regular to help us make the magic.
-<br>
-<br>
-If you want to do a one-time donation you can always head over to the website and do that there.
-<br>
-<br>
-We’ll still be doing this anyway so anytime you want to join in - or not. It’s all good. Thanks so much for all the support you’ve shown us so far, we really really appreciate it massively.
+If you're not ready now, the invitation is always open if you want to join in. Thanks so much for all the support you’ve shown us so far, I really really appreciate it deeply.
 <br>
 </div>

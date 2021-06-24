@@ -4,7 +4,7 @@ title: Anons?
 permalink: /anons/
 ---
 <div class="page">
-  <strong>If you'd like to make an anonymouse donation please choose one of the ways to pay below.  I will make no effort to find your identity.</strong>
+  <strong>If you'd like to make an anonymouse donation please choose one of the ways to give below.  I will make no effort to identify the donator.</strong>
 <br>
 
 

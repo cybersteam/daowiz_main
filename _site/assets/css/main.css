@@ -33,7 +33,16 @@ ul {
 .tel {
   margin-top: -60px;
 }
-
+.zoomer{
+  background-image:url("/assets/img/site_iconsetc/zoom_gest.png");
+  width: 6vw;
+  height: 6.5vw;
+  z-index: 10;
+  position: fixed;
+  bottom: 10vw;
+  right:8vw;
+  border: none;
+}
 .page {
   width:inherit;
   padding-left: 15px;
@@ -90,11 +99,8 @@ figcaption {
   background-color: #000;
 }*/
 
-/*@media (max-width: 900px) {
-  .message {
-      display: none;
+@media (max-width: 900px) {
 
-    }*/
 
 }
 

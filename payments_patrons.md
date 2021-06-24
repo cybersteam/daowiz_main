@@ -17,10 +17,10 @@ permalink: /patrons/
   Patrons get exclusive access to limited editions, one time recordings and also have direct interaction with me regarding my creations. If you have idea’s you’d like to see you can tell me about them!
   <br>
   <br>
-  This is only for people who want to make a consistent contribution and can afford something regular to help me make magic.
+  This is only for people who want to make a consistent contribution and can afford something regular to help me make magic. You can unsubscribe anytime.
   <br>
   <br>
-  If you're not ready now, the invitation is always open if you want to join in. Thanks so much for all the support you’ve shown us so far, I really really appreciate it deeply.
+  If you're not ready now, the invitation is always open if you want to join in. Thanks so much for all the support you’ve shown me so far, I really appreciate it deeply.
 
   <br>
   <br>

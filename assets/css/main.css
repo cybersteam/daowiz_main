@@ -1,39 +1,45 @@
 body,html {
   color: #0091ea !important;
-
   background-color: #252525;
   width: 100%;
-
-
   justify-content: center;
   align-items: center;
-  height: 120vh;
+  height: 140vh;
   /*position: absolute;
   display: flex;
   flex-wrap: wrap;
   */
 }
+
 body{
- width: 99%;
+ width: 100%;
+
 }
-.header{
+
+.my_header{
   font-family: "Lucida Console", "Courier New", monospace;
-  font-size: 5vh;
+  font-size: 5vw;
   text-align:center;
+  height:7vw;
   color:#fff;
   font-style:bold;
-  height:6vh;
   background-color: #01579b;
-  margin:-1px;
+  margin:-20px 0px 0px 0px;
   padding-top:0px;
 
 }
-ul {
+
+.mylist {
+  list-style-position: outside;
   list-style-type: circle;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
 }
-.tel {
-  margin-top: -60px;
-}
+
 .zoomer{
   background-image:url("/assets/img/site_iconsetc/zoom_gest.png");
 
@@ -56,6 +62,7 @@ ul {
   border: 2px solid #4CAF50;
   */
 }
+
 .page {
   width:inherit;
   padding-left: 15px;
@@ -79,14 +86,10 @@ figcaption {
   padding: 0px;
 }
 
-
-
-
 .playbutts{
 
   bottom:15vh;
   /*width: 80vw;*/
-
 }
 /*@media only screen and (max-width:900px) {
   body,html {
@@ -139,7 +142,6 @@ hr {
 
   /*border-bottom: 0.5px solid #333333;*/
 }
-
 
 footer.page-footer {
   background-color: #01579b !important;
@@ -203,10 +205,9 @@ footer.page-footer .footer-copyright {
 
 #wrapper{
   width:auto;
+  margin-top:-50px;
   border: none;
-  margin:0;
   padding:0px;
-  margin-bottom: 500px;
 }
 
 .GalleryGrid{

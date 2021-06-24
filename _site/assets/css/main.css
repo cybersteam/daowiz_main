@@ -39,8 +39,8 @@ ul {
   height: 6.5vw;
   z-index: 10;
   position: fixed;
-  bottom: 10vw;
-  right:8vw;
+  bottom: 20vw;
+  right:5.5vw;
   border: none;
 }
 .page {

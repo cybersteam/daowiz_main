@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Choose your way.
+title: Choose your way..
 permalink: /whatareyou/
 ---
 <div class="page">
   <ul>
-    <a href="/patrons">Patrons -></a>
+    <a href="/patrons">For Patrons</a>
     <br>
     <br>
     <br>
     <br>
-    <a href="/artbyers">Art Byers</a>
+    <a href="/artbyers">For Art buyer's</a>
     <br>
     <br>
     <br>
     <br>
-    <a href="/anons">Anonymous Donators</a>
+    <a href="/anons">For once off donations</a>
     <a></a>
   </ul>
 </div>

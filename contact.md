@@ -5,11 +5,11 @@ permalink: /contact/
 ---
 
 <div>
-  <a>Please contact me by Telegram on mobile, Signal on mobile, Email or Call me:</a>
-  <hr>
+  <a>Please contact me in one of these ways:
+
     <br>
     <br>
-    <br>
+    
 
 
 <div class="buttons">
@@ -22,9 +22,11 @@ permalink: /contact/
     </p>
 </div>
 <div>
+  <hr>
+<strong>Please let me know if you find any bugs in this app!</strong>
+  <hr>
+</div>
 
-</div>
-</div>
 
 
 

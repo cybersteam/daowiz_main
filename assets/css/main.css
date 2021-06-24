@@ -18,13 +18,14 @@ body{
 }
 .header{
   font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 5vh;
   text-align:center;
   color:#fff;
   font-style:bold;
-  height:45px;
+  height:6vh;
   background-color: #01579b;
-  margin:-10px;
-  padding-top:5px;
+  margin:-1px;
+  padding-top:0px;
 
 }
 ul {
@@ -229,4 +230,7 @@ footer.page-footer .footer-copyright {
   text-align: center;
   position:relative;
   padding-left: 28px;
+}
+.paypal_subscribe{
+  width:20%;
 }

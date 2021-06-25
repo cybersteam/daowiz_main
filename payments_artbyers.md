@@ -19,7 +19,7 @@ permalink: /artbyers/
                           padding: 20px;
                           width: 80vw;
                           height: 200px;">
-Art Gallery - Original art & Prints to own here.</a>
+Art Gallery - Originals etc.</a>
 <br>
 <br>
 <p>Im working on the following sections of the website which will be launching soon. Stay tuned for the launch prizes, first finders are keepers!

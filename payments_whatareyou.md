@@ -4,6 +4,7 @@ title: Choose your way..
 permalink: /whatareyou/
 ---
 <div class="page">
+<br>
   <ul>
     <a href="/patrons" style="border-radius: 25px;
                               border: 2px solid #73AD21;

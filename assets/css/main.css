@@ -248,5 +248,7 @@ footer.page-footer .footer-copyright {
   width:20%;
 }
 ul#patron_subs li{
-  display:inline;
+  /*display:inline;*/
+  padding: 20px 0px 20px 0px;
+  text-align: center;
 }

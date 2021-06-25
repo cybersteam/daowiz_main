@@ -6,17 +6,19 @@ permalink: /artbyers/
 
 <a href="/commissions" style="border-radius: 25px;
                           border: 2px solid #73AD21;
+                          text-align:center;
                           padding: 20px;
-                          width: 200px;
-                          height: 150px;"> Commission pieces to own here.</a>
+                          width: 80vw;
+                          height: 200px;"> Commission pieces to own here.</a>
 <br>
 <br>
 <br>
 <a href="/gallery" style="border-radius: 25px;
                           border: 2px solid #73AD21;
+                          text-align:center;
                           padding: 20px;
-                          width: 200px;
-                          height: 150px;">
+                          width: 80vw;
+                          height: 200px;">
 Art Gallery - Original art & Prints to own here.</a>
 <br>
 <br>

@@ -9,7 +9,7 @@ permalink: /contact/
 
     <br>
     <br>
-    
+
 
 
 <div class="buttons">
@@ -23,7 +23,7 @@ permalink: /contact/
 </div>
 <div>
   <hr>
-<strong>Please let me know if you find any bugs in this app!</strong>
+<strong>Help me by letting me know if you find any bugs in this app! Or any worthy suggestions/criticism.</strong>
   <hr>
 </div>
 

@@ -20,35 +20,27 @@ permalink: /patrons/
   This is only for people who want to make a consistent contribution and can afford something regular to help me make magic. You can unsubscribe anytime.
   <br>
   <br>
-  If you're not ready now, the invitation is always open if you want to join in. Thanks so much for all the support you’ve shown me so far, I really appreciate it deeply.
+  If you're not ready now, the invitation is always open if you want to join in. Thanks so much for all the support you’ve shown me so far, I appreciate it deeply.
+  <br>
+  <br>
+  <br>
+  <ul id="patron_subs">
+    <li><a href="/fivedollarpatron" style="border-radius: 25px;
+                                border: 2px solid #73AD21;
+                                padding: 20px;
+                                width: 200px;
+                                height: 150px;">5 Dollars per month</a></li>
 
+    <li><a href="/tendollarpatron" style="border-radius: 25px;
+                                border: 2px solid #73AD21;
+                                padding: 20px;
+                                width: 200px;
+                                height: 150px;">10 Dollars per month</a></li>
+    <li><a href="/fiftydollarpatron" style="border-radius: 25px;
+                                border: 2px solid #73AD21;
+                                padding: 20px;
+                                width: 200px;
+                                height: 150px;">50 Dollars per month</a></li>
+  </ul>
   <br>
   <br>
-
-  <strong>5$</strong>
-  <div id="paypal-button-container-P-8AG245328G818664YMDKMQRA" style="width:20vw;"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=AWUGJ1f2zd3MOq6tljQpNyx7U7oGNSR8aYAeJiAFnvfanpPVWOuCTYsdXlnBKVsDV4ArMGSlcNRjQoqJ&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'pill',
-          color: 'silver',
-          layout: 'vertical',
-          label: 'subscribe'
-      },
-      createSubscription: function(data, actions) {
-        return actions.subscription.create({
-          /* Creates the subscription */
-          plan_id: 'P-8AG245328G818664YMDKMQRA'
-        });
-      },
-      onApprove: function(data, actions) {
-        alert(data.subscriptionID); // You can add optional success message for the subscriber here
-      }
-  }).render('#paypal-button-container-P-8AG245328G818664YMDKMQRA'); // Renders the PayPal button
-</script>
-  </div>
-  <br>
-  <br>
-  <br>
-</div>

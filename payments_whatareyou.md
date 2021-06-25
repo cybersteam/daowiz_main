@@ -5,17 +5,29 @@ permalink: /whatareyou/
 ---
 <div class="page">
   <ul>
-    <a href="/patrons">For Patrons</a>
+    <a href="/patrons" style="border-radius: 25px;
+                              border: 2px solid #73AD21;
+                              padding: 20px;
+                              width: 200px;
+                              height: 150px;">For Patrons</a>
     <br>
     <br>
     <br>
     <br>
-    <a href="/artbyers">For Art buyer's</a>
+    <a href="/artbyers" style="border-radius: 25px;
+                              border: 2px solid #73AD21;
+                              padding: 20px;
+                              width: 200px;
+                              height: 150px;">For Art buyer's</a>
     <br>
     <br>
     <br>
     <br>
-    <a href="/anons">For once off donations</a>
+    <a href="/anons" style="border-radius: 25px;
+                              border: 2px solid #73AD21;
+                              padding: 20px;
+                              width: 200px;
+                              height: 150px;">For once off donations</a>
     <a></a>
   </ul>
 </div>

@@ -57,43 +57,38 @@
 
 
         <div class="page">
-  <h1 class="page-title">Contact</h1>
-  <div>
-  <a>Please contact me in one of these ways:
+  <h1 class="page-title">The fiver</h1>
+  <p><strong>5$ per month patronage.</strong></p>
+<div id="paypal-button-container-P-8AG245328G818664YMDKMQRA" style="border-radius: 25px;
+                            border: 2px solid #73AD21;
+                            padding: 20px;
+                            width: 50vw;
+                            height: 200px;"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AWUGJ1f2zd3MOq6tljQpNyx7U7oGNSR8aYAeJiAFnvfanpPVWOuCTYsdXlnBKVsDV4ArMGSlcNRjQoqJ&amp;vault=true&amp;intent=subscription" data-sdk-integration-source="button-factory"></script>
 
-    <br />
-    <br />
+<script>
+paypal.Buttons({
+    style: {
+        shape: 'pill',
+        color: 'silver',
+        layout: 'vertical',
+        label: 'subscribe'
+    },
+    createSubscription: function(data, actions) {
+      return actions.subscription.create({
+        /* Creates the subscription */
+        plan_id: 'P-8AG245328G818664YMDKMQRA'
+      });
+    },
+    onApprove: function(data, actions) {
+      alert(data.subscriptionID); // You can add optional success message for the subscriber here
+    }
+}).render('#paypal-button-container-P-8AG245328G818664YMDKMQRA'); // Renders the PayPal button
+</script>
 
-
-
-<div class="buttons">
-    <p style="text-align: center;">
-      <!--<a href="tg://user?id=648824384">-->
-        <a href="https://t.me/IvanDaowiz"><img src="../assets/img/telegram.png" height="60" width="60" /></a>
-      <a href="intent://+27604024843#Intent;scheme=smsto;package=org.thoughtcrime.securesms;action=android.intent.action.SENDTO;end"><img src="../assets/img/signal.png" height="60" width="60" /></a>
-      <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="60" width="60" /></a>
-      <a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a>
-    </p>
-</div>
-<div>
-  <hr />
-<strong>Help me by letting me know if you find any bugs in this app! Or any worthy suggestions/criticism.</strong>
-  <hr />
-</div>
-
-
-
-
-<!--
-Deprecated:
-<a href="https://api.whatsapp.com/send?phone=27604024843"><img src="../assets/img/whatsapp.png" height="42" width="42"></a>-->
-
-
-
-<!--<li><a href="../contact" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a></li>-->
-<!--<p>Daowiz serves individuals, SME’s, corporations, organizations, communities and ecosystems in all sectors, anywhere in the world, constantly gaining a broader and deeper perspective of the living world as one whole integrated system. We believe that all life has a critical role to play and that the more we become aware and learn about each other -the better all of our futures will be.</p>
--->
-</a></div>
+<p><br />
+<br />
+<br /></p>
 
 </div>
 

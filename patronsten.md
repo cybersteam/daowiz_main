@@ -1,0 +1,34 @@
+---
+layout: page
+title: The Ten
+permalink: /tendollarpatron/
+---
+<strong>10$ per month patronage.</strong>
+<div id="paypal-button-container-P-8GH618672N746935YMDKMW5Q" style="border-radius: 25px;
+                            border: 2px solid #73AD21;
+                            padding: 20px;
+                            width: 50vw;
+                            height: 200px;"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AWUGJ1f2zd3MOq6tljQpNyx7U7oGNSR8aYAeJiAFnvfanpPVWOuCTYsdXlnBKVsDV4ArMGSlcNRjQoqJ&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'pill',
+          color: 'silver',
+          layout: 'vertical',
+          label: 'subscribe'
+      },
+      createSubscription: function(data, actions) {
+        return actions.subscription.create({
+          /* Creates the subscription */
+          plan_id: 'P-8GH618672N746935YMDKMW5Q'
+        });
+      },
+      onApprove: function(data, actions) {
+        alert(data.subscriptionID); // You can add optional success message for the subscriber here
+      }
+  }).render('#paypal-button-container-P-8GH618672N746935YMDKMW5Q'); // Renders the PayPal button
+</script>
+<br>
+<br>
+<br>

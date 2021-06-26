@@ -16,7 +16,7 @@ Contact me.
 </a>
 <br>
 <br>
-<p>Besides my own work I also manage a collection of other work including my grandfather's who was a teacher and commercial artist in South Africa.
+<p>Besides my own work I also manage a collection of other work which may be of interest to you.
 </p>  
 <!--<a>We sing about the epic future we're living in and the one we're hurtling ourselves toward...</a>
 <p>Play, scroll art, video's, interactive, treasure entry</p>-->

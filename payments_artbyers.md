@@ -9,7 +9,7 @@ permalink: /artbyers/
                           text-align:center;
                           padding: 20px;
                           width: 80vw;
-                          height: 200px;"> Commission pieces to own here.</a>
+                          height: 200px;"> Commission work.</a>
 <br>
 <br>
 <br>
@@ -19,10 +19,10 @@ permalink: /artbyers/
                           padding: 20px;
                           width: 80vw;
                           height: 200px;">
-Art Gallery - Originals etc.</a>
+View Gallery</a>
 <br>
 <br>
-<p>Im working on the following sections of the website which will be launching soon. Stay tuned for the launch prizes, first finders are keepers!
+<p>Im also working on the following sections of my app which will be launching soon. Stay tuned for the launch prizes, first finders are keepers!
 </p>
 <div class="mylist">
   <ul>    

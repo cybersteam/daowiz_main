@@ -28,7 +28,7 @@ permalink: /whatareyou/
                               border: 2px solid #73AD21;
                               padding: 20px;
                               width: 200px;
-                              height: 150px;">For once off donations</a>
+                              height: 150px;">Once off Donations</a>
     <a></a>
   </ul>
 </div>

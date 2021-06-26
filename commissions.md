@@ -15,5 +15,5 @@ I'm open to doing commissions in various forms and mediums. First and foremost I
                           padding: 20px;
                           width: 200px;
                           height: 150px;">
-Contact me now to begin the dialogue.
+Contact me.
 </a>

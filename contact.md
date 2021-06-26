@@ -22,9 +22,9 @@ permalink: /contact/
     </p>
 </div>
 <div>
-  <hr>
-<strong>Help me by letting me know if you find any bugs in this app! Or any worthy suggestions/criticism.</strong>
-  <hr>
+
+<strong>Help me by letting me know if you find any bugs in this app, or if you have any suggestions/criticism.</strong>
+  
 </div>
 
 

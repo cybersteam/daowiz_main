@@ -20,12 +20,12 @@ body{
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 5vw;
   text-align:center;
-  height:7vw;
+  height:25vw;
   color:#fff;
   font-style:bold;
-  /*background-color: #01579b;*/
+  background-color: #252525;
   margin:-20px 0px 0px 0px;
-  padding-top:0px;
+  padding-top:5px;
 
 }
 

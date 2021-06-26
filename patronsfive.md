@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The fiver
+title: Five
 permalink: /fivedollarpatron/
 ---
 <strong>5$ per month patronage.</strong>

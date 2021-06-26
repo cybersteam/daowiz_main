@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Fifty
+title: Fifty
 permalink: /fiftydollarpatron/
 ---
 <strong>50$ per month patronage.</strong>

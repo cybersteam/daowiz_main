@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Ten
+title: Ten
 permalink: /tendollarpatron/
 ---
 <strong>10$ per month patronage.</strong>

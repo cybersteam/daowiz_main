@@ -28,7 +28,17 @@ permalink: /whatareyou/
                               border: 2px solid #73AD21;
                               padding: 20px;
                               width: 200px;
-                              height: 150px;">Once off Donations</a>
+                              height: 150px;">Donations</a>
     <a></a>
+  <!--  <br>
+    <br>
+    <br>
+    <br>
+    <a href="/anons" style="border-radius: 25px;
+                              border: 2px solid #73AD21;
+                              padding: 20px;
+                              width: 200px;
+                              height: 150px;">Participate</a>
+    <a></a>-->
   </ul>
 </div>

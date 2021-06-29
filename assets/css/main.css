@@ -43,7 +43,7 @@ body{
 }
 
 /*.zoomer{
-  background-image:url("/assets/img/site_iconsetc/zoom_gest.png");*/
+  background-image:url("/assets/img/site_iconsetc/zoom_gest.png");
 
   text-align: center;
   width: 14vw;
@@ -51,7 +51,7 @@ body{
   z-index: 10;
   position: fixed;
   /*bottom: 40vw;
-  right:5vw;*/
+  right:5vw;
   border: none;
   padding-left: -10px;
   position: -webkit-sticky;
@@ -59,11 +59,11 @@ body{
   top: 55vh;
   left:43vw;
   padding: 5px;
-  /*
+
   background-color: #cae8ca;
   border: 2px solid #4CAF50;
-  */
-}
+
+}*/
 
 .page {
   width:inherit;
@@ -236,16 +236,18 @@ footer.page-footer .footer-copyright {
   background: skyblue;
   animation: fader 40s cubic-bezier(.8,0,0,.8) infinite;
 }*/
-#sound {
-  width:2vw;
-  text-align: center;
-  position:relative;
-}
+
 #Test_Audio {
-  text-align: center;
   position:relative;
-  padding-left: 28px;
+  height:200px;
+  width:auto;
+  text-align: center;
+
 }
+audio::-webkit-media-controls-play-button{
+
+}
+
 .paypal_subscribe{
   width:20%;
 }

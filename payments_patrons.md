@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Your'e a patron.
+title: Your'e a patron
 permalink: /patrons/
 ---
 <div class="page">

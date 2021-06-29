@@ -240,14 +240,13 @@ footer.page-footer .footer-copyright {
 #Test_Audio {
   position:relative;
   height:200px;
-  width:auto;
-  text-align: center;
+  width:200px;
+
 
 }
 audio::-webkit-media-controls-play-button{
 
 }
-
 .paypal_subscribe{
   width:20%;
 }

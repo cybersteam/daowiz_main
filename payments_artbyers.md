@@ -19,7 +19,7 @@ permalink: /artbyers/
                           padding: 20px;
                           width: 80vw;
                           height: 200px;">
-View Gallery</a>
+Enter the Gallery</a>
 <br>
 <br>
 <p>Im also working on the following sections of my app which will be launching soon. Stay tuned for the launch prizes, first finders are keepers!

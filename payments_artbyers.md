@@ -9,7 +9,7 @@ permalink: /artbyers/
                           text-align:center;
                           padding: 20px;
                           width: 80vw;
-                          height: 200px;"> Commission work.</a>
+                          height: 200px;"> Commission a work.</a>
 <br>
 <br>
 <br>

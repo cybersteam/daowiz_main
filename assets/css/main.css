@@ -132,11 +132,6 @@ h3 {
   font-size: 1.5em;
 }
 
-.fixed-action-btn {
-  margin-bottom:50px;
-}
-
-
 
 hr {
   border-top: 0.5px solid #636363;
@@ -146,7 +141,7 @@ hr {
 }
 
 footer.page-footer {
-  background-color: #01579b !important;
+  background-color: #474747 !important;
   border-top:3px solid #66bb6a;
   min-height: 0;
   vertical-align: baseline;
@@ -159,7 +154,7 @@ footer.page-footer {
 }
 
 footer.page-footer .footer-copyright {
-  background-color: #0091ea !important;
+  background-color: #292929 !important;
   padding-left:20px;
   padding-top:10px;
   text-align: center;

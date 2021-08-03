@@ -131,7 +131,10 @@ h1{
 h3 {
   font-size: 1.5em;
 }
-
+.sub_header {
+  font-size: 0.25em;
+  margin-top: -50px;
+}
 
 hr {
   border-top: 0.5px solid #636363;

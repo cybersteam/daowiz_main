@@ -16,6 +16,7 @@ body{
  padding-left: 10px;
  padding-right:10px;
 
+
 }
 
 .my_header{
@@ -26,9 +27,21 @@ body{
   color:#fff;
   font-style:bold;
   background-color: #252525;
-  margin:-20px 0px 0px 0px;
+  margin-top: -5vw;
+  margin-bottom: -5vw;
   padding-top:5px;
 
+}
+@media only screen and (min-width: 700px) {
+    .my_header{
+      height:20vw;
+    }
+}
+.sub_header {
+  font-size: 2vw;
+  padding-top: 1vw;
+  margin-top: -10vw;
+  margin-bottom: -20vw;
 }
 
 .mylist {
@@ -117,10 +130,7 @@ figcaption {
   background-color: #000;
 }*/
 
-@media (max-width: 900px) {
 
-
-}
 
 
 
@@ -131,10 +141,7 @@ h1{
 h3 {
   font-size: 1.5em;
 }
-.sub_header {
-  font-size: 0.25em;
-  margin-top: -50px;
-}
+
 
 hr {
   border-top: 0.5px solid #636363;

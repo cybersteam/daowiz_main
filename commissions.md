@@ -6,7 +6,7 @@ permalink: /commissions/
 
 <!--Page commissions-->
 <br>
-I'm excited to do commissions in various forms and mediums ranging from illustrations to large scale sculptural projects. First and foremost I enjoy working according to my own creative vision and process, and I do enjoy re-visiting previous themes as well (everything yous see on the homepage). I'll also entertain new ideas for commissions when they align with my mission.
+I'm excited to do commissions in various forms and mediums ranging from illustrations to large scale sculptural projects. First and foremost I enjoy working according to my own creative vision and process and I do enjoy re-visiting previous themes as well (everything you see on the homepage etc.). I'll also entertain new ideas for commissions when they align with my mission, let's chat about it.
 <br>
 <br>
 <br>

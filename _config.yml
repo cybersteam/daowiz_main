@@ -16,7 +16,13 @@ theme: minima
 plugins: [jekyll-sitemap]
 plugins:
   - jekyll-feed
-
+# Site owner
+owner:
+  name: online ivan
+  avatar: ivan.png
+  bio: ""
+  email:
+  github: cybersteam
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

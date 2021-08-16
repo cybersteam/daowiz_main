@@ -16,15 +16,15 @@ permalink: /contact/
     <p style="text-align: center;">
       <!--<a href="tg://user?id=648824384">-->
         <a href="https://t.me/IvanDaowiz"><img src="../assets/img/telegram.png" height="60" width="60"></a>
-      <a href="intent://+27604024843#Intent;scheme=smsto;package=org.thoughtcrime.securesms;action=android.intent.action.SENDTO;end"><img src="../assets/img/signal.png" height="60" width="60"></a>
-      <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="60" width="60"></a>
-      <a href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a>
+        <a href="intent://+27604024843#Intent;scheme=smsto;package=org.thoughtcrime.securesms;action=android.intent.action.SENDTO;end"><img src="../assets/img/signal.png" height="60" width="60"></a>
+        <a href="mailto:infinite22@gmail.com"><img src="../assets/img/mail.png" height="60" width="60"></a>
+        <a style="margin-top:-50px;margin-left:3px;" href="tel:+27-060-402-4843" class="btn-floating green accent-4  btn-large"><i class="large material-icons">call</i></a>
     </p>
 </div>
 <div>
 
 <strong>Help me by letting me know if you find any bugs in this app, or if you have any suggestions/criticism.</strong>
-  
+
 </div>
 
 

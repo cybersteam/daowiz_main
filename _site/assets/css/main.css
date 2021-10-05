@@ -23,7 +23,7 @@ body{
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 5vw;
   text-align:center;
-  height:28vw;
+  height:30vw;
   color:#fff;
   font-style:bold;
   background-color: #252525;
@@ -35,7 +35,7 @@ body{
 
 @media only screen and (min-width: 700px) {
     .my_header{
-      height:20vw;
+      height:23vw;
     }
 }
 .sub_header {

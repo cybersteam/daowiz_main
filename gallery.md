@@ -10,6 +10,7 @@ permalink: /gallery/
 
 <!--<p> The art gallery is offline right now while I'm getting some things upgraded. In the meantime you are welcome to contact me for any requests or information regarding what is currently available to own or display in your venue.</p>-->
 <br>
+<br>
 <p>
 <a href="/contact" style="
                           border-radius: 25px;

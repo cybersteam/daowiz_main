@@ -12,6 +12,7 @@ permalink: /gallery/
 <br>
 <br>
 <p>
+<br>
 <a href="/contact" style="
                           border-radius: 25px;
                           border: 2px solid #73AD21;

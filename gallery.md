@@ -6,10 +6,11 @@ permalink: /gallery/
 <p> Currently I'm working on NFT's both on Stacks and Etherium chains. You can visit my collections and individual NFT's here:<p>
 <a href="https://opensea.io/collection/ships2100">Opensea</a>
 <br>
-<a href="https://stx.nft.com" style="padding: 5px;">StacksNFT.com</a>
+<a href="https://stx.nft.com">StacksNFT.com</a>
 
 <!--<p> The art gallery is offline right now while I'm getting some things upgraded. In the meantime you are welcome to contact me for any requests or information regarding what is currently available to own or display in your venue.</p>-->
 <br>
+<p>
 <a href="/contact" style="
                           border-radius: 25px;
                           border: 2px solid #73AD21;
@@ -19,6 +20,7 @@ permalink: /gallery/
                          ">
 Contact me.
 </a>
+</p>
 <br>
 <br>
 <p>Besides my own work I also manage a collection of other work which may be of interest to you.

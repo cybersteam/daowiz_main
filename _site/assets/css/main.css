@@ -18,12 +18,15 @@ body{
 
 
 }
-
+.logo{
+  width:auto;
+  height:auto;
+}
 .my_header{
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 5vw;
   text-align:center;
-  height:30vw;
+  height:40vw;
   color:#fff;
   font-style:bold;
   background-color: #252525;

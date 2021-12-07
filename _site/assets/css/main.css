@@ -222,7 +222,7 @@ footer.page-footer .footer-copyright {
 }
 
 .GalleryGrid{
-  padding: 10px 0px 0px 0px;
+  padding: -10px 0px 0px 0px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;

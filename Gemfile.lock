@@ -65,6 +65,7 @@ DEPENDENCIES
   jekyll (>= 3.9, < 4)
   jekyll-feed (~> 0.6)
   jekyll-sitemap (= 0.8.1)
+  kramdown (>= 2.3.1)
   minima (~> 2.0)
   tzinfo-data
 

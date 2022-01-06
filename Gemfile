@@ -16,6 +16,7 @@ gem 'jekyll', '>=3.9', '<4'
 
 
 gem "kramdown", ">= 2.3.1"
+gem "kramdown-parser-gfm"
 
 
 

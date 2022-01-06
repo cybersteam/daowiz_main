@@ -12,6 +12,8 @@ gem 'jekyll-sitemap', '0.8.1'
 # Happy Jekylling!
 #gem "jekyll", "~> 3.6.2"
 
+gem 'jekyll', '>=3.9', '<4'
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 

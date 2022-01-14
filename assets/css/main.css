@@ -23,7 +23,7 @@ body{
   height:auto;
 }
 .my_header{
-  font-family: "Sans", "Serif", monospace;
+  font-family: Verdana, Helvetica, sans-serif;
   font-size: 5vw;
   text-align:center;
 

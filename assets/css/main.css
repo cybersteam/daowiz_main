@@ -52,6 +52,13 @@ body{
 
 
 }
+.page_quotes {
+  font-size: 2vw;
+  text-align:center;
+  font-family: Bradley Hand, cursive, monospace;
+  font-size: 5vw;
+  color:#fff;
+}
 
 .mylist {
   list-style-position: outside;

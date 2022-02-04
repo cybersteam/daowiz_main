@@ -23,7 +23,7 @@ body{
   height:auto;
 }
 .my_header{
-  font-family: Verdana, Helvetica, monospace;
+  font-family: Bradley Hand, cursive, monospace;
   font-size: 5vw;
   text-align:center;
 
@@ -44,7 +44,7 @@ body{
 .sub_header {
   font-size: 2vw;
   text-align:center;
-  font-family: Verdana, Helvetica, monospace;
+  font-family: Bradley Hand, cursive, monospace;
   font-size: 5vw;
   color:#fff;
   font-style:bold;

@@ -10,7 +10,7 @@ permalink: /whatareyou/
                               border: 2px solid #73AD21;
                               padding: 20px;
                               width: 200px;
-                              height: 150px;">For Patrons</a>
+                              height: 150px;">Patrons way</a>
     <br>
     <br>
     <br>
@@ -19,7 +19,7 @@ permalink: /whatareyou/
                               border: 2px solid #73AD21;
                               padding: 20px;
                               width: 200px;
-                              height: 150px;">For Art buyer's</a>
+                              height: 150px;">Buy music/art</a>
     <br>
     <br>
     <br>
@@ -28,7 +28,7 @@ permalink: /whatareyou/
                               border: 2px solid #73AD21;
                               padding: 20px;
                               width: 200px;
-                              height: 150px;">Donations</a>
+                              height: 150px;">Donate</a>
     <a></a>
   <!--  <br>
     <br>

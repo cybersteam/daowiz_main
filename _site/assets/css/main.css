@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Soulmate;
+  src: url(/fonts/soulmate_5/soulmate.ttf);
+}
+
+
 body,html {
   color: #0091ea !important;
   background-color: #252525;
@@ -23,16 +29,17 @@ body{
   height:auto;
 }
 .my_header{
-  font-family: Bradley Hand, cursive, monospace;
+  font-family: Soulmate, Bradley Hand, cursive, monospace;
   font-size: 5vw;
   text-align:center;
 
   color:#fff;
-  font-style:bold;
-  background-color: #252525;
 
-  margin-bottom: -5vw;
-  padding-top:5px;
+  background-color: #252525;
+  font-style: italic;
+  margin-bottom: 10px;
+  padding-top:10px;
+  line-height: 20px;
 
 }
 
@@ -44,10 +51,10 @@ body{
 .sub_header {
   font-size: 2vw;
   text-align:center;
-  font-family: Bradley Hand, cursive, monospace;
-  font-size: 5vw;
+  font-family: Soulmate, Bradley Hand, cursive, monospace;
+  font-size: 3vw;
   color:#fff;
-  font-style:bold;
+  font-style: italic;
   margin-top:-15vw;
 
 
@@ -56,7 +63,7 @@ body{
   font-size: 2vw;
   text-align:center;
   font-family: Bradley Hand, cursive, monospace;
-  font-size: 5vw;
+  font-size: 3vw;
   color:#fff;
 }
 

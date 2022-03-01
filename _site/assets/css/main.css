@@ -1,8 +1,8 @@
 @font-face {
   font-family: Soulmate;
   src: url(/soulmate.ttf);
-}
 
+}
 
 body,html {
   color: #0091ea !important;
@@ -22,12 +22,13 @@ body{
  padding-left: 10px;
  padding-right:10px;
 
-
 }
+
 .logo{
   width:auto;
   height:auto;
 }
+
 .my_header{
   font-family: Soulmate, Bradley Hand, cursive, monospace;
   font-size: 8vw;
@@ -40,7 +41,6 @@ body{
   margin-bottom: 6vw;
   padding-top:10px;
   line-height: 20px;
-
 }
 
 @media only screen and (min-width: 700px) {

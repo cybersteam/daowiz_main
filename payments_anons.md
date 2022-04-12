@@ -6,7 +6,18 @@ permalink: /anons/
 <div class="page">
   <strong>To make a donation please choose one of the ways to give below.</strong>
 <br>
+<p>NEWSFLASH - WE're funding the new album and another exciting project for 2022. Check it out!<p>
+Im fundraing to .. WHY
+with this and that WHAT
+	Sentient Culture
+	Re-exploring my life's work (art, music, body/bio conciousness, technology frontline, building,
+	primal to high tech
 
+So whats it all about?
+WHHHY
+How to get involved
+
+Update schedule etc.
 
 <table style="border-collapse: collapse;" border="0">
 <tbody>

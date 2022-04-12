@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-12T13:16:16+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DaoWiz Creations</title><subtitle>DaoWiz Creations</subtitle><entry><title type="html">Bird Tripping in Namibia</title><link href="http://localhost:4000/blog1/2021/12/07/namibia.html" rel="alternate" type="text/html" title="Bird Tripping in Namibia" /><published>2021-12-07T00:00:00+02:00</published><updated>2021-12-07T00:00:00+02:00</updated><id>http://localhost:4000/blog1/2021/12/07/namibia</id><content type="html" xml:base="http://localhost:4000/blog1/2021/12/07/namibia.html"><![CDATA[<header>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-15T16:04:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DaoWiz Creations</title><subtitle>DaoWiz Creations</subtitle><entry><title type="html">Bird Tripping in Namibia</title><link href="http://localhost:4000/blog1/2021/12/07/namibia.html" rel="alternate" type="text/html" title="Bird Tripping in Namibia" /><published>2021-12-07T00:00:00+02:00</published><updated>2021-12-07T00:00:00+02:00</updated><id>http://localhost:4000/blog1/2021/12/07/namibia</id><content type="html" xml:base="http://localhost:4000/blog1/2021/12/07/namibia.html"><![CDATA[<header>
 
 </header>
 
@@ -130,16 +130,7 @@ Style the posts and post list etc: images and some other good stuff.
 https://www.youtube.com/watch?v=6oKO-7gsM4s&feature=youtu.be
 
 https://www.youtube.com/watch?v=1GskmTFLrA4&feature=youtu.be
--->]]></content><author><name>ivan</name></author><category term="blog1" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mail.png" /><media:content medium="image" url="http://localhost:4000/assets/img/mail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">NOOOOOOOOOOOOOOOOO</title><link href="http://localhost:4000/blog2/2021/03/31/This-guy-is-an-inspiration!.html" rel="alternate" type="text/html" title="NOOOOOOOOOOOOOOOOO" /><published>2021-03-31T00:00:00+02:00</published><updated>2021-03-31T00:00:00+02:00</updated><id>http://localhost:4000/blog2/2021/03/31/This%20guy%20is%20an%20inspiration!</id><content type="html" xml:base="http://localhost:4000/blog2/2021/03/31/This-guy-is-an-inspiration!.html"><![CDATA[<header>
-
-</header>
-<iframe width="420" height="315" src="/assets/video/jeremy.mp4" frameborder="0" allowfullscreen=""></iframe>
-<!--
-Style the posts and post list etc: images and some other good stuff.
-https://www.youtube.com/watch?v=6oKO-7gsM4s&feature=youtu.be
-
-https://www.youtube.com/watch?v=1GskmTFLrA4&feature=youtu.be
--->]]></content><author><name>ivan</name></author><category term="blog2" /><summary type="html"><![CDATA[&lt;!– Style the posts and post list etc: images and some other good stuff. https://www.youtube.com/watch?v=6oKO-7gsM4s&amp;feature=youtu.be]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mail.png" /><media:content medium="image" url="http://localhost:4000/assets/img/mail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My very first post.</title><link href="http://localhost:4000/blog1/2021/03/25/first-test.html" rel="alternate" type="text/html" title="My very first post." /><published>2021-03-25T00:00:00+02:00</published><updated>2021-03-25T00:00:00+02:00</updated><id>http://localhost:4000/blog1/2021/03/25/first-test</id><content type="html" xml:base="http://localhost:4000/blog1/2021/03/25/first-test.html"><![CDATA[<header>
+-->]]></content><author><name>ivan</name></author><category term="blog1" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mail.png" /><media:content medium="image" url="http://localhost:4000/assets/img/mail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My very first post.</title><link href="http://localhost:4000/blog1/2021/03/25/first-test.html" rel="alternate" type="text/html" title="My very first post." /><published>2021-03-25T00:00:00+02:00</published><updated>2021-03-25T00:00:00+02:00</updated><id>http://localhost:4000/blog1/2021/03/25/first-test</id><content type="html" xml:base="http://localhost:4000/blog1/2021/03/25/first-test.html"><![CDATA[<header>
 
 </header>
 
@@ -169,4 +160,119 @@ Style the posts and post list etc: images and some other good stuff.
 https://www.youtube.com/watch?v=6oKO-7gsM4s&feature=youtu.be
 
 https://www.youtube.com/watch?v=1GskmTFLrA4&feature=youtu.be
--->]]></content><author><name>ivan</name></author><category term="blog2" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mail.png" /><media:content medium="image" url="http://localhost:4000/assets/img/mail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+-->]]></content><author><name>ivan</name></author><category term="blog2" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/mail.png" /><media:content medium="image" url="http://localhost:4000/assets/img/mail.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">namibia trip 2021/22</title><link href="http://localhost:4000/blog2/2021/01/01/namibia-birds.html" rel="alternate" type="text/html" title="namibia trip 2021/22" /><published>2021-01-01T00:00:00+02:00</published><updated>2021-01-01T00:00:00+02:00</updated><id>http://localhost:4000/blog2/2021/01/01/namibia-birds</id><content type="html" xml:base="http://localhost:4000/blog2/2021/01/01/namibia-birds.html"><![CDATA[<header>
+
+</header>
+<section class="GalleryGrid">
+  <a title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/years/2021.png')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec3/burchells_starling.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec3/doublebanded_franklin.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec3/dungbeetle.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec3/greenbush_snake.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec3/guinea.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec3/hog.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec3/vervet.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/pied_kingfisher.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/reed_cormorant.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/allens_galinule.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/barred_owlet.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/blackbellied_bustard.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/blue_bug.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/hippo.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/wattled_crane.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/westernbanded_snakeeagle.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/woodland_kingfisher.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/blackcrowned_nightheron.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/blue_waxbill.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/bronze_mannikin.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/coppertail_coucal.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/drongo.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/lilies.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/redbilled_firefinch.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/scene.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/squirrel.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec2/whitethroated_beeeater.JPG')">
+  </a>
+  <a href="/2021/12/07/namibia.html" title="2021" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/african_jacana.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/fish_eagle.JPG ')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/osprey.JPG ')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/carmine_beeeater.JPG  ')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/goliath_heron.JPG ')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/shell.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/crested_barbet01.JPG ')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/crested_barbet02.JPG ')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/wood_owl.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/crocodile.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/openbill_skimmer.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/centipede.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/lesserspotted_eagle.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/levaillants_cuckoo.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/monitor.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/trumpeter_hornbill.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021dec/whitebrow_robin.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/reed_cormorant.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/sunset.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/dungbeetle.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/ross_turaco.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/pytilia.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/paradise_flycatcher.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/bulbul.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/redbilled_spurfowl.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/redbilled_hornbill.JPG')">
+  </a>
+  <a title="2021" href="/2021/12/07/namibia.html" class="Gallery_Photo" style="background-image: url('/assets/img/2021Nov/african_weaver.JPG')">
+  </a>
+
+</section>]]></content><author><name>ivan</name></author><category term="blog2" /><summary type="html"><![CDATA[]]></summary></entry></feed>

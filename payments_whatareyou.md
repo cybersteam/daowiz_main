@@ -6,6 +6,7 @@ permalink: /whatareyou/
 <div class="page">
 <br>
   <ul>
+  <!--
     <a href="/patrons" style="border-radius: 25px;
                               border: 2px solid #73AD21;
                               padding: 20px;
@@ -24,21 +25,24 @@ permalink: /whatareyou/
     <br>
     <br>
     <br>
+    -->
     <a href="/anons" style="border-radius: 25px;
                               border: 2px solid #73AD21;
                               padding: 20px;
                               width: 200px;
-                              height: 150px;">Donate</a>
+                              height: 150px;">Contribute</a>
     <a></a>
   <!--  <br>
     <br>
     <br>
     <br>
+
     <a href="/anons" style="border-radius: 25px;
                               border: 2px solid #73AD21;
                               padding: 20px;
                               width: 200px;
                               height: 150px;">Participate</a>
     <a></a>-->
+
   </ul>
 </div>

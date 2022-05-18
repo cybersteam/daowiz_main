@@ -4,20 +4,26 @@ title: Once off
 permalink: /anons/
 ---
 <div class="page">
-  <strong>To make a donation please choose one of the ways to give below.</strong>
-<br>
-<p>NEWSFLASH - WE're funding the new album and another exciting project for 2022. Check it out!<p>
-Im fundraing to .. WHY
+
+<div class="alert_box">
+  <strong style="color: #eb4034;">NEWSFLASH!!</strong><br><hr>
+  Exciting news! In June 2022 i'll be releasing a mobile and desktop app with a whole lot of new music and imagery. A full multimedia experience that will continually grow every month!!
+</div>
+
+<div>
 with this and that WHAT
 	Sentient Culture
 	Re-exploring my life's work (art, music, body/bio conciousness, technology frontline, building,
 	primal to high tech
-
 So whats it all about?
 WHHHY
 How to get involved
+<br>
+</div>
 
-Update schedule etc.
+<br>
+<strong>To make a donation please choose one of the ways to contribute below.</strong>
+<br>
 
 <table style="border-collapse: collapse;" border="0">
 <tbody>

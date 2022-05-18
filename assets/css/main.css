@@ -23,6 +23,7 @@ body{
  padding-right:10px;
 
 
+
 }
 .logo{
   width:auto;
@@ -58,6 +59,11 @@ body{
   margin-top:-15vw;
 
 
+}
+.alert_box{
+  border: 1px solid;
+  border-radius: 35px;
+  padding:3vw;
 }
 .page_quotes {
   font-size: 2vw;

@@ -61,9 +61,10 @@ body{
 
 }
 .alert_box{
-  border: 1px solid;
+  border: 2px solid #66bb6a;
   border-radius: 35px;
   padding:3vw;
+  color: #fff;
 }
 .page_quotes {
   font-size: 2vw;
@@ -125,7 +126,7 @@ figure {
 
 figcaption {
   background-color: #212121;
-  color:#525252;
+  color:#ffffff;
   font-style: italic;
   padding: 0px;
 }
@@ -159,7 +160,9 @@ figcaption {
   background-color: #000;
 }*/
 
-
+.payments {
+  color: #ffffff;
+}
 
 
 

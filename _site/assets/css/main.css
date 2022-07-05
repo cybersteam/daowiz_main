@@ -21,14 +21,13 @@ body{
  width: 100%;
  padding-left: 10px;
  padding-right:10px;
-
-
-
 }
+
 .logo{
   width:auto;
   height:auto;
 }
+
 .my_header{
   font-family: Bradley Hand, cursive, monospace;
   font-size: 8vw;
@@ -62,7 +61,7 @@ body{
 }
 .alert_box{
   border: 2px solid #66bb6a;
-  border-radius: 35px;
+  border-radius: 10px;
   padding:3vw;
   color: #fff;
 }
@@ -256,10 +255,16 @@ footer.page-footer .footer-copyright {
   justify-content: space-between;
 }
 
-.Gallery_Photo{
+
+
+.Gallery_Photo {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 30px;
+  border: none;
   width:33.3%;
   width:calc(33.3% - 2px);
-  height:30vw;
+  height:25vw;
   background-position: center;
   background-size: cover;
   margin-bottom: 3px;

@@ -21,13 +21,14 @@ body{
  width: 100%;
  padding-left: 10px;
  padding-right:10px;
-}
 
+
+
+}
 .logo{
   width:auto;
   height:auto;
 }
-
 .my_header{
   font-family: Bradley Hand, cursive, monospace;
   font-size: 8vw;
@@ -255,16 +256,10 @@ footer.page-footer .footer-copyright {
   justify-content: space-between;
 }
 
-
-
-.Gallery_Photo {
-  -webkit-border-radius: 50px;
-  -moz-border-radius: 50px;
-  border-radius: 30px;
-  border: none;
+.Gallery_Photo{
   width:33.3%;
   width:calc(33.3% - 2px);
-  height:25vw;
+  height:30vw;
   background-position: center;
   background-size: cover;
   margin-bottom: 3px;

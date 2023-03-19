@@ -12,7 +12,7 @@ permalink: /contact/
     
 <div class="buttons">
     <p style="text-align: center;">
-        <a href="https://t.me/IvanDaowiz"><img src="../assets/img/telegram.png" height="60" width="60"></a>
+        <a href="https://t.me/Ivan Daowiz"><img src="../assets/img/telegram.png" height="60" width="60"></a>
         <a href="intent://+31684342634#Intent;scheme=smsto;
                  package=org.thoughtcrime.securesms;
                  action=android.intent.action.SENDTO;

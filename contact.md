@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <div>
-  <a>Please contact me in one of these ways:
+  <a>Please contact me:
 
     <br>
     <br>
